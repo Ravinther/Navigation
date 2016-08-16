@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout app:layout_width="-2" app:layout_height="-2">
+    <LinearLayout app:background="0x7f020055" app:layout_width="-2" app:layout_height="-2" app:layout_marginLeft="24dp" app:layout_marginTop="8dp" app:layout_marginRight="24dp" app:layout_marginBottom="8dp">
+        <com.sygic.aura.views.font_specials.STextView app:textSize="16sp" app:textColor="0x7f0d0185" app:ellipsize="3" app:gravity="10" app:id="0x7f0e0236" app:paddingLeft="16dp" app:paddingTop="12dp" app:paddingRight="16dp" app:paddingBottom="12dp" app:layout_width="0dp" app:layout_height="-1" app:maxLines="2" app:layout_weight="1.0" app:font="0x7f070395" />
+        <com.sygic.aura.views.font_specials.SForegroundTextView app:textSize="16sp" app:textColor="0x7f0d0186" app:gravity="10" app:id="0x7f0e0237" app:background="0x7f020056" app:paddingLeft="16dp" app:paddingTop="12dp" app:paddingRight="16dp" app:paddingBottom="12dp" app:layout_width="-2" app:layout_height="-1" app:foreground="?unknown_attr_ref: 7f01014b" app:font="0x7f070395" app:textId="0x7f0702e8" />
+    </LinearLayout>
+</FrameLayout>

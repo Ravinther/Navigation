@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <LinearLayout sygic:layout_gravity="10" sygic:orientation="1" sygic:padding="8dp" sygic:layout_width="-2" sygic:layout_height="-2">
+        <com.sygic.aura.views.font_specials.SImageView sygic:id="0x7f0e00c4" sygic:paddingBottom="2dp" sygic:layout_width="-2" sygic:layout_height="-2" sygic:textSrc="0x7f050020" />
+        <com.sygic.aura.views.font_specials.STextView sygic:textSize="10sp" sygic:textColor="0x7f0d014a" sygic:layout_gravity="1" sygic:id="0x7f0e00c6" sygic:layout_width="-2" sygic:layout_height="-2" sygic:text="delay" sygic:font="0x7f070393" />
+    </LinearLayout>
+    <LinearLayout sygic:layout_gravity="10" sygic:orientation="1" sygic:paddingTop="4dp" sygic:paddingRight="8dp" sygic:paddingBottom="4dp" sygic:layout_width="-2" sygic:layout_height="-2" sygic:paddingEnd="8dp">
+        <com.sygic.aura.views.font_specials.STextView sygic:textSize="14sp" sygic:textColor="0x7f0d014a" sygic:paddingBottom="2dp" sygic:layout_width="-2" sygic:layout_height="-2" sygic:font="0x7f070393" sygic:textId="0x7f0702fd" />
+        <com.sygic.aura.views.font_specials.STextView sygic:textSize="10sp" sygic:textColor="0x7f0d014a" sygic:layout_width="-2" sygic:layout_height="-2" sygic:font="0x7f070393" sygic:textId="0x7f0702fc" />
+    </LinearLayout>
+</merge>

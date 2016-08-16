@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:background="0x7f0d0024" android:clickable="true" android:layout_width="-1" android:layout_height="-1" android:cacheColorHint="0x7f0d0024">
+    <include layout="0x7f0300b0" />
+    <FrameLayout android:layout_width="-1" android:layout_height="-1">
+        <com.sygic.aura.views.SmartProgressBar android:layout_gravity="11" android:id="0x7f0e00e6" android:layout_width="-2" android:layout_height="-2" style="0x7f090112" />
+        <ListView android:id="0x7f0e011d" android:visibility="2" android:layout_width="-1" android:layout_height="-2" android:listSelector="0x7f0d0177" android:divider="0x7f0d0000" android:dividerHeight="0x7f0800a0" />
+    </FrameLayout>
+</LinearLayout>

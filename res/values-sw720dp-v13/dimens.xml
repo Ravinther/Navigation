@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="mapToolbarHeight">56.0dip</dimen>
+    <dimen name="mapToolbarTranslate">66.0dip</dimen>
+    <dimen name="toolbarHeight">64.0dip</dimen>
+</resources>

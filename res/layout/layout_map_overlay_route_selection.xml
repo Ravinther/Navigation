@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout sygic:padding="0x7f0800e5" sygic:layout_width="-1" sygic:layout_height="-2">
+    <LinearLayout sygic:orientation="1" sygic:id="0x7f0e01ff" sygic:background="0x7f02028b" sygic:clickable="true" sygic:layout_width="-2" sygic:layout_height="-2" sygic:layout_alignParentLeft="true" sygic:layout_alignParentBottom="true">
+        <com.sygic.aura.views.font_specials.SToggleButton sygic:id="0x7f0e0200" sygic:background="0x7f02022c" sygic:layout_marginLeft="1dp" sygic:textSrc="0x7f050069" style="0x7f0900df" />
+        <View sygic:background="0x7f0d005b" sygic:layout_width="-1" sygic:layout_height="1dp" sygic:layout_marginLeft="8dp" sygic:layout_marginRight="8dp" />
+        <com.sygic.aura.views.font_specials.SToggleButton sygic:id="0x7f0e0201" sygic:background="0x7f02022c" sygic:textSrc="0x7f05005b" style="0x7f0900df" />
+    </LinearLayout>
+    <RelativeLayout sygic:gravity="50" sygic:id="0x7f0e01d9" sygic:layout_width="-1" sygic:layout_height="0x7f080116" sygic:layout_alignParentBottom="true">
+        <LinearLayout sygic:orientation="0" sygic:id="0x7f0e0202" sygic:background="0x7f02028b" sygic:layout_width="-2" sygic:layout_height="-2" sygic:layout_alignParentRight="true" sygic:layout_alignParentBottom="true"
+            <LinearLayout sygic:orientation="0" sygic:id="0x7f0e0203" sygic:background="0x7f02022c" sygic:paddingLeft="12dp" sygic:paddingRight="12dp" sygic:clickable="true" sygic:layout_width="-2" sygic:layout_height="0x7f0800c8">
+                <com.sygic.aura.views.font_specials.SImageView sygic:id="0x7f0e0204" sygic:layout_width="-2" sygic:layout_height="-1" sygic:textSrc="0x7f050068" />
+                <FrameLayout sygic:layout_width="-2" sygic:layout_height="-1">
+                    <com.sygic.aura.views.font_specials.STextView sygic:textColor="0x7f0d0073" sygic:gravity="10" sygic:id="0x7f0e0205" sygic:visibility="2" sygic:layout_width="-2" sygic:layout_height="-1" sygic:layout_marginLeft="4dp" sygic:font="0x7f070393" />
+                    <com.sygic.aura.views.font_specials.SImageView sygic:id="0x7f0e0206" sygic:visibility="2" sygic:layout_width="-2" sygic:layout_height="-1" sygic:layout_marginLeft="6dp" sygic:textSrc="0x7f0500cf" />
+                    <ProgressBar sygic:layout_gravity="10" sygic:id="0x7f0e0207" sygic:visibility="2" sygic:layout_width="20dp" sygic:layout_height="20dp" sygic:layout_marginLeft="6dp" />
+                </FrameLayout>
+            </LinearLayout>
+            <View sygic:background="0x7f0d005b" sygic:layout_width="1dp" sygic:layout_height="-1" sygic:layout_marginTop="8dp" sygic:layout_marginBottom="8dp" />
+            <LinearLayout sygic:orientation="0" sygic:id="0x7f0e0208" sygic:background="0x7f02022c" sygic:paddingLeft="12dp" sygic:paddingRight="12dp" sygic:clickable="true" sygic:layout_width="-2" sygic:layout_height="0x7f0800c8">
+                <com.sygic.aura.views.font_specials.SImageView sygic:id="0x7f0e0209" sygic:layout_width="-2" sygic:layout_height="-1" sygic:textSrc="0x7f050065" />
+                <FrameLayout sygic:layout_width="-2" sygic:layout_height="-1">
+                    <com.sygic.aura.views.font_specials.STextView sygic:textColor="0x7f0d0073" sygic:gravity="10" sygic:id="0x7f0e020a" sygic:visibility="2" sygic:layout_width="-2" sygic:layout_height="-1" sygic:layout_marginLeft="4dp" sygic:font="0x7f070393" />
+                    <com.sygic.aura.views.font_specials.SImageView sygic:id="0x7f0e020b" sygic:visibility="2" sygic:layout_width="-2" sygic:layout_height="-1" sygic:layout_marginLeft="6dp" sygic:textSrc="0x7f0500cf" />
+                    <ProgressBar sygic:layout_gravity="10" sygic:id="0x7f0e020c" sygic:visibility="2" sygic:layout_width="20dp" sygic:layout_height="20dp" sygic:layout_marginLeft="6dp" />
+                </FrameLayout>
+            </LinearLayout>
+            <View sygic:background="0x7f0d005b" sygic:layout_width="1dp" sygic:layout_height="-1" sygic:layout_marginTop="8dp" sygic:layout_marginBottom="8dp" />
+            <com.sygic.aura.views.font_specials.SImageButton sygic:id="0x7f0e01f7" sygic:background="0x7f02022c" sygic:textSrc="0x7f050062" style="0x7f0900df" />
+        </LinearLayout>
+    </RelativeLayout>
+    <com.sygic.aura.views.font_specials.SToggleButton sygic:id="0x7f0e01e1" sygic:visibility="2" sygic:layout_above="0x7f0e01d9" sygic:layout_alignParentRight="true" sygic:textSrcOn="0x7f050064" sygic:textSrcOff="0x7f050063" style="0x7f0900de" />
+</RelativeLayout>

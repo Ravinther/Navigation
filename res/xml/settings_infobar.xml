@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen>
+    <com.sygic.aura.settings.preferences.SPreferenceCategory android:layout="0x7f0300ef" android:title="0x7f07022f">
+        <com.sygic.aura.settings.preferences.SummaryListPreference android:entries="0x7f0c0024" android:title="0x7f070236" android:key="0x7f070452" android:entryValues="0x7f0c001d" />
+        <com.sygic.aura.settings.preferences.SummaryListPreference android:entries="0x7f0c0024" android:title="0x7f070237" android:key="0x7f070453" android:entryValues="0x7f0c001d" />
+        <com.sygic.aura.settings.preferences.SummaryListPreference android:entries="0x7f0c0024" android:title="0x7f070238" android:key="0x7f070454" android:entryValues="0x7f0c001d" />
+    </com.sygic.aura.settings.preferences.SPreferenceCategory>
+    <com.sygic.aura.settings.preferences.SPreferenceCategory android:layout="0x7f0300ef" android:title="0x7f07023c">
+        <com.sygic.aura.settings.preferences.SummaryListPreference android:entries="0x7f0c0024" android:title="0x7f070236" android:key="0x7f070455" android:defaultValue="1" android:entryValues="0x7f0c001d" />
+        <com.sygic.aura.settings.preferences.SummaryListPreference android:entries="0x7f0c0024" android:title="0x7f070237" android:key="0x7f070456" android:defaultValue="2" android:entryValues="0x7f0c001d" />
+        <com.sygic.aura.settings.preferences.SummaryListPreference android:entries="0x7f0c0024" android:title="0x7f070238" android:key="0x7f070457" android:defaultValue="3" android:entryValues="0x7f0c001d" />
+    </com.sygic.aura.settings.preferences.SPreferenceCategory>
+</PreferenceScreen>

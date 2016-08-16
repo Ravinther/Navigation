@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <com.sygic.aura.search.view.HistorySectionItem android:gravity="10" android:orientation="0" android:background="0x7f02022c" android:visibility="2" android:layout_width="-1" android:layout_height="0x7f080127">
+        <ImageView android:id="@id/image" android:layout_width="0x7f0800c1" android:layout_height="-2" android:layout_marginLeft="16dp" android:scaleType="3" android:layout_marginStart="16dp" />
+        <LinearLayout android:layout_gravity="10" android:orientation="1" android:layout_width="0dp" android:layout_height="-2" android:layout_marginLeft="32dp" android:layout_weight="1.0" android:layout_marginStart="32dp">
+            <com.sygic.aura.views.font_specials.STextView android:id="0x7f0e021d" android:layout_width="-1" android:layout_height="-2" style="0x7f0900dc" />
+            <com.sygic.aura.views.font_specials.STextView android:id="0x7f0e021e" android:layout_width="-1" android:layout_height="-2" style="0x7f0900d8" />
+        </LinearLayout>
+        <com.sygic.aura.views.font_specials.STextView android:id="0x7f0e00e2" android:layout_width="-2" android:layout_height="-2" android:layout_marginRight="16dp" android:layout_marginEnd="16dp" style="0x7f0900d9" />
+    </com.sygic.aura.search.view.HistorySectionItem>
+</merge>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="-1">
+    <com.sygic.aura.views.font_specials.STextView android:textColor="0x7f0d0156" android:gravity="800005" android:id="@id/left" android:paddingLeft="4dp" android:paddingRight="4dp" android:layout_width="-1" android:layout_height="-2" android:layout_weight="1.0" />
+    <com.sygic.aura.views.font_specials.STextView android:textColor="0x7f0d0156" android:id="@id/right" android:paddingLeft="4dp" android:paddingRight="4dp" android:layout_width="-1" android:layout_height="-2" android:layout_weight="1.0" />
+</LinearLayout>

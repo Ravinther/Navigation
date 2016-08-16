@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout sygic:orientation="1" sygic:layout_width="-1" sygic:layout_height="-2">
+    <com.sygic.aura.views.font_specials.STextView sygic:id="0x7f0e01b6" style="0x7f09010d" />
+    <LinearLayout sygic:id="0x7f0e01b7" style="0x7f0901c4">
+        <com.sygic.aura.views.font_specials.SImageView sygic:textSrc="0x7f02004e" style="0x7f0901c5" />
+        <com.sygic.aura.views.font_specials.STextView sygic:textId="0x7f0701b4" style="0x7f0901c7" />
+        <android.support.v7.widget.SwitchCompat sygic:id="0x7f0e01b8" style="0x7f0901c6" />
+    </LinearLayout>
+    <include layout="0x7f03007b" />
+    <LinearLayout sygic:id="0x7f0e01b9" style="0x7f0901c4">
+        <com.sygic.aura.views.font_specials.SImageView sygic:textSrc="0x7f02004f" style="0x7f0901c5" />
+        <com.sygic.aura.views.font_specials.STextView sygic:textId="0x7f0701b6" style="0x7f0901c7" />
+        <android.support.v7.widget.SwitchCompat sygic:id="0x7f0e01b8" style="0x7f0901c6" />
+    </LinearLayout>
+    <include layout="0x7f03007b" />
+    <LinearLayout sygic:id="0x7f0e01ba" style="0x7f0901c4">
+        <com.sygic.aura.views.font_specials.SImageView sygic:textSrc="0x7f02004d" style="0x7f0901c5" />
+        <com.sygic.aura.views.font_specials.STextView sygic:textId="0x7f0701b2" style="0x7f0901c7" />
+        <android.support.v7.widget.SwitchCompat sygic:id="0x7f0e01b8" style="0x7f0901c6" />
+    </LinearLayout>
+    <include layout="0x7f03007b" />
+    <LinearLayout sygic:id="0x7f0e01bb" style="0x7f0901c4">
+        <com.sygic.aura.views.font_specials.SImageView sygic:textSrc="0x7f020050" style="0x7f0901c5" />
+        <com.sygic.aura.views.font_specials.STextView sygic:textId="0x7f0701b8" style="0x7f0901c7" />
+        <android.support.v7.widget.SwitchCompat sygic:id="0x7f0e01b8" style="0x7f0901c6" />
+    </LinearLayout>
+</LinearLayout>

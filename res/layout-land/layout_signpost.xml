@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout sygic:id="0x7f0e0221" sygic:background="0x7f020293" sygic:paddingLeft="12dp" sygic:paddingRight="12dp" sygic:visibility="2" sygic:layout_width="-1" sygic:layout_height="0x7f080013">
+    <FrameLayout sygic:id="0x7f0e0223" sygic:layout_width="-2" sygic:layout_height="-2" sygic:layout_toLeftOf="0x7f0e0226" sygic:layout_alignParentLeft="true" sygic:layout_centerVertical="true">
+        <com.sygic.aura.views.font_specials.STextView sygic:textSize="0x7f080088" sygic:textColor="0x7f0d014a" sygic:ellipsize="3" sygic:gravity="800003" sygic:id="0x7f0e0224" sygic:focusable="false" sygic:focusableInTouchMode="false" sygic:clickable="false" sygic:longClickable="false" sygic:layout_width="-2" sygic:layout_height="-2" sygic:maxLines="1" sygic:includeFontPadding="false" sygic:dynamicResize="true" sygic:maxTextSize="0x7f080088" sygic:minTextSize="0x7f080089" />
+    </FrameLayout>
+    <LinearLayout sygic:orientation="0" sygic:id="0x7f0e0226" sygic:layout_width="-2" sygic:layout_height="-2" sygic:layout_alignParentRight="true" sygic:layout_centerVertical="true">
+        <com.sygic.aura.views.font_specials.SImageView sygic:layout_gravity="10" sygic:id="0x7f0e0222" sygic:focusable="false" sygic:focusableInTouchMode="false" sygic:clickable="false" sygic:longClickable="false" sygic:layout_width="0x7f080133" sygic:layout_height="0x7f080133" sygic:layout_marginLeft="4dp" sygic:textSrc="0x7f05006e" />
+        <LinearLayout sygic:layout_gravity="10" sygic:orientation="0" sygic:id="0x7f0e0225" sygic:layout_width="-2" sygic:layout_height="-2" sygic:layout_marginLeft="4dp" /> />
+</RelativeLayout>

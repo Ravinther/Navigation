@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sygic.aura.route.view.SpeedLimitSignShape android:background="0x7f020298" android:layout_width="0x7f080143" android:layout_height="0x7f080141">
+    <TextView android:textSize="0x7f08013e" android:gravity="1" android:layout_gravity="31" android:id="@id/text" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="5dp" android:text="0x7f0703e5" />
+    <TextView android:textSize="0x7f08013f" android:gravity="11" android:layout_gravity="51" android:id="0x7f0e01a4" android:layout_width="-1" android:layout_height="-2" android:layout_below="@id/text" />
+    <TextView android:textSize="0x7f08013c" android:gravity="11" android:layout_gravity="35" android:id="0x7f0e029d" android:background="0x7f020299" android:layout_width="-2" android:layout_height="-2" android:text="0x7f0703e4" />
+</com.sygic.aura.route.view.SpeedLimitSignShape>

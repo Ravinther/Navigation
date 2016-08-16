@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout sygic:gravity="10" sygic:orientation="0" sygic:paddingLeft="16dp" sygic:paddingRight="16dp" sygic:layout_width="-1" sygic:layout_height="0x7f080127">
+    <ImageView sygic:id="@id/image" sygic:layout_width="0x7f080125" sygic:layout_height="0x7f080125" sygic:layout_marginRight="12dp" />
+    <LinearLayout sygic:gravity="10" sygic:orientation="1" sygic:layout_width="0dp" sygic:layout_height="-1" sygic:layout_weight="1.0"
+        <LinearLayout sygic:orientation="0" sygic:layout_width="-1" sygic:layout_height="-2">
+            <com.sygic.aura.views.font_specials.STextView sygic:id="0x7f0e01ab" sygic:layout_width="0dp" sygic:layout_height="-2" sygic:layout_weight="1.0" style="0x7f0900dc" />
+            <com.sygic.aura.views.font_specials.STextView sygic:id="0x7f0e00b7" sygic:layout_width="-2" sygic:layout_height="-2" style="0x7f0900d9" />
+        </LinearLayout>
+        <LinearLayout sygic:gravity="10" sygic:orientation="0" sygic:id="0x7f0e01ac" sygic:layout_width="-1" sygic:layout_height="-2"
+            <LinearLayout sygic:orientation="0" sygic:id="0x7f0e01ad" sygic:background="0x7f020212" sygic:paddingLeft="4dp" sygic:paddingRight="4dp" sygic:layout_width="-2" sygic:layout_height="-2" sygic:layout_marginRight="8dp">
+                <com.sygic.aura.views.font_specials.STextView sygic:textSize="12sp" sygic:textColor="0x7f0d018a" sygic:id="0x7f0e01ae" sygic:layout_width="-2" sygic:layout_height="-2" sygic:font="0x7f070395" />
+                <com.sygic.aura.views.font_specials.STextView sygic:textSize="12sp" sygic:textColor="0x7f0d018a" sygic:id="0x7f0e01af" sygic:layout_width="-2" sygic:layout_height="-2" sygic:font="0x7f070394" />
+            </LinearLayout>
+            <com.sygic.aura.views.font_specials.STextView sygic:ellipsize="3" sygic:id="0x7f0e01b0" sygic:layout_width="0dp" sygic:layout_height="-2" sygic:maxLines="1" sygic:layout_weight="1.0" style="0x7f0900d8" />
+            <com.sygic.aura.views.font_specials.STextView sygic:textColor="0x7f0d005f" sygic:id="0x7f0e01b1" sygic:visibility="0" sygic:layout_width="-2" sygic:layout_height="-2" sygic:layout_marginLeft="8dp" sygic:font="0x7f070395" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

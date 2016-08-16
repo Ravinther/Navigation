@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="10" android:orientation="0" android:layout_width="-1" android:layout_height="-2">
+    <ImageView android:id="@id/icon" android:padding="15dp" android:layout_width="-2" android:layout_height="-2" />
+    <SeekBar android:id="0x7f0e0293" android:padding="15dp" android:layout_width="-1" android:layout_height="-2" />
+</LinearLayout>

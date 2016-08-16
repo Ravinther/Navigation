@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu>
+    <item compat:icon="0x7f02028c" compat:enabled="false" compat:id="0x7f0e02f5" compat:title="0x7f07016b" compat:showAsAction="1" />
+    <item compat:icon="0x7f02028d" compat:enabled="false" compat:id="0x7f0e02f6" compat:title="0x7f070181" compat:showAsAction="2" />
+</menu>

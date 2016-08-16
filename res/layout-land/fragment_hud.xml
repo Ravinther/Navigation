@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout sygic:background="0x7f0d0036" sygic:clickable="true" sygic:layout_width="-1" sygic:layout_height="-1">
+    <LinearLayout sygic:orientation="1" sygic:id="0x7f0e0117" sygic:layout_width="-1" sygic:layout_height="-1"
+        <LinearLayout sygic:layout_width="-1" sygic:layout_height="0dp" sygic:layout_weight="25.0">
+            <com.sygic.aura.views.font_specials.STextView sygic:textColor="0x7f0d00cc" sygic:gravity="10" sygic:id="0x7f0e0119" sygic:layout_width="0dp" sygic:layout_height="-1" sygic:layout_weight="40.0" sygic:font="0x7f070391" sygic:dynamicResize="true" sygic:dynamicResizeHeight="true" sygic:maxTextSize="0x7f0800b4" />
+            <com.sygic.aura.views.font_specials.STextView sygic:gravity="11" sygic:id="0x7f0e011b" sygic:visibility="2" sygic:layout_width="0dp" sygic:layout_height="-1" sygic:layout_weight="30.0" sygic:font="0x7f070391" sygic:dynamicResize="true" sygic:dynamicResizeHeight="true" sygic:maxTextSize="0x7f0800b4" />
+            <FrameLayout sygic:layout_gravity="5" sygic:layout_width="0dp" sygic:layout_height="-1" sygic:layout_weight="30.0">
+                <include sygic:layout_gravity="5" sygic:layout_width="-2" sygic:layout_height="-2" layout="0x7f030067" />
+            </FrameLayout>
+        </LinearLayout>
+        <LinearLayout sygic:layout_width="-1" sygic:layout_height="0dp" sygic:layout_weight="75.0">
+            <include sygic:id="0x7f0e011a" sygic:layout_width="0dp" sygic:layout_height="-1" sygic:layout_weight="40.0" layout="0x7f030087" />
+            <LinearLayout sygic:orientation="1" sygic:layout_width="0dp" sygic:layout_height="-1" sygic:layout_weight="60.0">
+                <com.sygic.aura.views.font_specials.STextView sygic:textColor="0x7f0d018a" sygic:gravity="10" sygic:id="0x7f0e0118" sygic:layout_width="-1" sygic:layout_height="0dp" sygic:layout_weight="50.0" sygic:font="0x7f070391" sygic:dynamicResize="true" sygic:dynamicResizeHeight="true" sygic:maxTextSize="120sp" />
+                <com.sygic.aura.views.font_specials.STextView sygic:textColor="0x7f0d00cc" sygic:layout_gravity="10" sygic:id="0x7f0e00b7" sygic:layout_width="-1" sygic:layout_height="0dp" sygic:layout_marginTop="22dp" sygic:layout_marginBottom="22dp" sygic:layout_weight="50.0" sygic:font="0x7f070391" sygic:dynamicResize="true" sygic:dynamicResizeHeight="true" sygic:maxTextSize="120sp" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+    <include sygic:id="0x7f0e011c" sygic:visibility="2" layout="0x7f0300db" />
+</FrameLayout>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout sygic:layout_gravity="50" sygic:orientation="0" sygic:background="0x7f0d0040" sygic:layout_width="-1" sygic:layout_height="-2"
+    <LinearLayout sygic:gravity="10" sygic:orientation="1" sygic:padding="5dp" sygic:layout_width="0dp" sygic:layout_height="-2" sygic:layout_weight="1.0">
+        <com.sygic.aura.views.font_specials.STextView sygic:textAppearance="?unknown_attr_ref: 1010040" sygic:layout_width="-2" sygic:layout_height="-2" sygic:singleLine="true" sygic:textId="0x7f0700b6" sygic:dynamicResize="true" />
+        <ProgressBar sygic:id="0x7f0e00ae" sygic:layout_width="-1" sygic:layout_height="-2" sygic:layout_marginTop="7dp" style="?unknown_attr_ref: 1010078" />
+    </LinearLayout>
+    <com.sygic.aura.views.font_specials.SImageView sygic:layout_gravity="11" sygic:id="@id/btn_cancel" sygic:background="0x7f020289" sygic:padding="20dp" sygic:layout_width="60dp" sygic:layout_height="60dp" sygic:scaleType="6" sygic:textSrc="0x7f050021" />
+</LinearLayout>

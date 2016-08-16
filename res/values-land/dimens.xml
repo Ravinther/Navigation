@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="abc_action_bar_default_height_material">48.0dip</dimen>
+    <dimen name="abc_action_bar_default_padding_material">0.0dip</dimen>
+    <dimen name="abc_action_bar_progress_bar_size">32.0dip</dimen>
+    <dimen name="abc_text_size_subtitle_material_toolbar">12.0dip</dimen>
+    <dimen name="abc_text_size_title_material_toolbar">14.0dip</dimen>
+    <dimen name="actionControlMarginBottom">16.0dip</dimen>
+    <dimen name="actionControlMarginSides">104.0dip</dimen>
+    <dimen name="compassMarginTop">0.0dip</dimen>
+    <dimen name="directionLayoutHeight">63.0sp</dimen>
+    <dimen name="directionLayoutWidth">137.0sp</dimen>
+    <dimen name="directionTextSize">28.0sp</dimen>
+    <dimen name="infoBarSlotTextSize">30.0sp</dimen>
+    <dimen name="routeNotificationHeight">48.0dip</dimen>
+    <dimen name="routeNotificationWidth">104.0dip</dimen>
+    <dimen name="spbErrorLogoMargin">16.0dip</dimen>
+    <dimen name="spbErrorTextWidth">324.0dip</dimen>
+    <dimen name="directionTextWidth">70.0sp</dimen>
+    <dimen name="mapToolbarWidth">388.0dip</dimen>
+    <dimen name="routeNotificationIconWidth">52.0dip</dimen>
+    <dimen name="signpostLayoutHeight">54.0sp</dimen>
+</resources>

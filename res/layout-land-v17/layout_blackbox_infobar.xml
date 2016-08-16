@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <com.sygic.aura.views.font_specials.STextView android:textSize="0x7f080066" android:textColor="0x7f0d018a" android:id="0x7f0e01bc" android:paddingLeft="0x7f080064" android:layout_width="-2" android:layout_height="-2" android:layout_centerVertical="true" android:paddingStart="0x7f080064" />
+    <com.sygic.aura.views.font_specials.STextView android:textSize="0x7f080066" android:textColor="0x7f0d018a" android:id="0x7f0e01be" android:paddingLeft="0x7f080064" android:layout_width="-2" android:layout_height="-2" android:layout_toRightOf="0x7f0e01bc" android:layout_centerVertical="true" android:paddingStart="0x7f080064" android:layout_toEndOf="0x7f0e01bc" />
+    <com.sygic.aura.views.font_specials.STextView android:textSize="0x7f080066" android:textColor="0x7f0d018a" android:id="0x7f0e01bd" android:paddingLeft="0x7f080064" android:layout_width="-2" android:layout_height="-2" android:layout_toRightOf="0x7f0e01be" android:layout_centerVertical="true" android:paddingStart="0x7f080064" android:layout_toEndOf="0x7f0e01be" />
+    <com.sygic.aura.views.font_specials.SImageView android:paddingRight="0x7f080064" android:layout_width="-2" android:layout_height="-2" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:paddingEnd="0x7f080064" android:layout_alignParentEnd="true" android:textSrc="0x7f050018" />
+</merge>

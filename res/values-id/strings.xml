@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="com_facebook_image_download_unknown_error">Kesalahan yang tidak diharapkan saat mengunduh gambar.</string>
+    <string name="com_facebook_internet_permission_error_message">Masuk WebView memerlukan izin INTERNET</string>
+    <string name="com_facebook_internet_permission_error_title">Kesalahan AndroidManifest</string>
+    <string name="com_facebook_like_button_liked">Disukai</string>
+    <string name="com_facebook_like_button_not_liked">Suka</string>
+    <string name="com_facebook_loading">Memuat...</string>
+    <string name="com_facebook_loginview_cancel_action">Batal</string>
+    <string name="com_facebook_loginview_log_in_button">Masuk</string>
+    <string name="com_facebook_loginview_log_in_button_long">Masuk menggunakan Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Keluar</string>
+    <string name="com_facebook_loginview_log_out_button">Keluar</string>
+    <string name="com_facebook_loginview_logged_in_as">Masuk sebagai: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Masuk menggunakan Facebook</string>
+    <string name="com_facebook_send_button_text">Kirim</string>
+    <string name="com_facebook_share_button_text">Berbagi</string>
+    <string name="com_facebook_tooltip_default">Baru! Anda memegang kendali - pilih info yang ingin Anda bagikan dengan aplikasi.</string>
+    <string name="additionalDownload.title">Men-download...</string>
+    <string name="button.cancel">Batal</string>
+    <string name="button.quit">Keluar</string>
+    <string name="button.retry">Coba lagi</string>
+    <string name="button.settings">Pengaturan</string>
+    <string name="message.aes.download.failed">Ups. Terjadi kesalahan saat mengunduh file sumber daya dari Google Play.</string>
+    <string name="message.aes.unpack.failed">Ups. Terjadi kesalahan saat memproses data yang diunduh dari Google Play.</string>
+    <string name="message.gps.warning">Aktifkan layanan lokasi untuk mengetahui lokasi Anda.</string>
+    <string name="message.inifiles.missing" formatted="false">File penting untuk %app_name% tidak ada…</string>
+    <string name="message.minres.failed">Ups. Terjadi kesalahan saat memproses data yang diperlukan untuk menjalankan aplikasi ini.</string>
+    <string name="message.nolicense">Aplikasi ini tidak dilisensi. Beli dari Android Market atau aktifkan sambungan jaringan, lalu coba lagi.</string>
+    <string name="message.notification.sygic" formatted="false">Sentuh di sini untuk menampilkan %app_name%</string>
+    <string name="message.processing">Harap tunggu selama memproses data yang diunduh.</string>
+    <string name="message.sdcard.missing">Kartu SD tidak ada. Periksa…</string>
+    <string name="process_name">Sygic</string>
+    <string name="resources.download.info">Tunggu. Sumber yang diperlukan untuk menjalankan aplikasi ini sedang di-download. Terima kasih.</string>
+    <string name="retention.discover">Temukan tempat menarik untuk dikunjungi dengan Sygic.</string>
+    <string name="retention.drive">Berkendara lebih cerdas setiap hari dengan Sygic.</string>
+    <string name="retention.open.app">Buka aplikasi</string>
+    <string name="shop.error.notEnoughSpace" formatted="false">Memori tidak cukup untuk download data. Kapasitas %size% MB diperlukan.</string>
+    <string name="title.gps.warning">GPS tidak diaktifkan</string>
+    <string name="title.processing">Memproses...</string>
+    <string name="title.warning">Peringatan</string>
+</resources>

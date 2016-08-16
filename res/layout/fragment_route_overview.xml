@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:background="0x7f0d0042" android:layout_width="-1" android:layout_height="-1">
+    <com.sygic.aura.views.font_specials.SToolbar android:id="0x7f0e0122" style="0x7f090168">
+        <include layout="0x7f0300b3" />
+    </com.sygic.aura.views.font_specials.SToolbar>
+    <ListView android:scrollbarStyle="2000000" android:id="0x7f0e0161" android:layout_width="-1" android:layout_height="-1" android:divider="0x7f0d0001" android:dividerHeight="0x7f0800a0" android:overScrollMode="0" />
+</LinearLayout>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout sygic:gravity="10" sygic:orientation="0" sygic:layout_width="-1" sygic:layout_height="0x7f08011f">
+    <view sygic:id="0x7f0e0214" sygic:layout_width="24dp" sygic:layout_height="-2" sygic:textSrc="0x7f05006f" class="com.sygic.aura.route.overview.RouteOverviewFragment$PinImageView" />
+    <com.sygic.aura.views.font_specials.STextView sygic:textColor="0x7f0d015f" sygic:id="0x7f0e0215" sygic:layout_width="-2" sygic:layout_height="-2" sygic:layout_marginLeft="32dp" style="0x7f0900dc" />
+</LinearLayout>

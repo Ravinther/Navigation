@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item>
+        <nine-patch android:src="0x7f0200b8" />
+    </item>
+    <item>
+        <shape android:shape="0">
+            <solid android:color="0x7f0d002f" />
+            <corners android:radius="3dp" />
+        </shape>
+    </item>
+</layer-list>

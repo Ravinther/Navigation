@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:id="@id/parentPanel" android:layout_width="-1" android:layout_height="-2"
+    <LinearLayout android:orientation="1" android:id="@id/topPanel" android:layout_width="-1" android:layout_height="-2"
+        <LinearLayout android:gravity="10" android:orientation="0" android:id="@id/title_template" android:paddingLeft="?unknown_attr_ref: 7f010142" android:paddingTop="@dimen/abc_dialog_padding_top_material" android:paddingRight="?unknown_attr_ref: 7f010142" android:layout_width="-1" android:layout_height="-2">
+            <ImageView android:id="0x1020006" android:layout_width="32dp" android:layout_height="32dp" android:src="@ttsconst/TTSEVT_AUDIOSTART" android:scaleType="3" style="@style/RtlOverlay_Widget_AppCompat_DialogTitle_Icon" />
+            <android.support.v7.internal.widget.DialogTitle android:ellipsize="3" android:id="@id/alertTitle" android:layout_width="-1" android:layout_height="-2" android:singleLine="true" android:textAlignment="5" style="?unknown_attr_ref: 101005b" />
+        </LinearLayout>
+    </LinearLayout>
+    <FrameLayout android:id="@id/contentPanel" android:layout_width="-1" android:layout_height="-2" android:minHeight="48dp" android:layout_weight="1.0">
+        <ScrollView android:id="@id/scrollView" android:clipToPadding="false" android:layout_width="-1" android:layout_height="-2">
+            <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2">
+                <TextView android:id="0x102000b" android:paddingLeft="?unknown_attr_ref: 7f010142" android:paddingTop="@dimen/abc_dialog_padding_top_material" android:paddingRight="?unknown_attr_ref: 7f010142" android:layout_width="-1" android:layout_height="-2" style="@style/TextAppearance_AppCompat_Subhead" />
+                <View android:id="@id/textSpacerNoButtons" android:visibility="2" android:layout_width="0dp" android:layout_height="@dimen/abc_dialog_padding_top_material" />
+            </LinearLayout>
+        </ScrollView>
+    </FrameLayout>
+    <FrameLayout android:id="@id/customPanel" android:layout_width="-1" android:layout_height="-2" android:minHeight="48dp" android:layout_weight="1.0"
+        <FrameLayout android:id="@id/custom" android:layout_width="-1" android:layout_height="-2" /> />
+    <LinearLayout android:gravity="50" android:orientation="0" android:id="@id/buttonPanel" android:paddingLeft="12dp" android:paddingTop="8dp" android:paddingRight="12dp" android:paddingBottom="8dp" android:layout_width="-1" android:layout_height="-2" android:layoutDirection="3" style="?unknown_attr_ref: 7f010149">
+        <Button android:id="0x102001b" android:layout_width="-2" android:layout_height="-2" style="?unknown_attr_ref: 7f010177" />
+        <android.support.v4.widget.Space android:visibility="1" android:layout_width="0dp" android:layout_height="0dp" android:layout_weight="1.0" />
+        <Button android:id="0x102001a" android:layout_width="-2" android:layout_height="-2" style="?unknown_attr_ref: 7f010176" />
+        <Button android:id="0x1020019" android:layout_width="-2" android:layout_height="-2" style="?unknown_attr_ref: 7f010175" />
+    </LinearLayout>
+</LinearLayout>

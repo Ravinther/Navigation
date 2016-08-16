@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <com.sygic.aura.views.font_specials.SForegroundTextView sygic:id="0x7f0e02ba" sygic:layout_width="-2" sygic:layout_height="-2" sygic:textId="0x7f0700b1" style="0x7f0900d5" />
+</merge>

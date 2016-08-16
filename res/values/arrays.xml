@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_enable_disable_entries">
+        <item>Enabled</item>
+        <item>Disabled</item>
+    </string-array>
+    <integer-array name="arrIn">
+        <item>0</item>
+        <item>32</item>
+        <item>0xe16d</item>
+        <item>0xe160</item>
+        <item>0xe15f</item>
+        <item>0xe16c</item>
+        <item>0xe15e</item>
+        <item>0xe15d</item>
+        <item>0xe162</item>
+        <item>0xe16e</item>
+        <item>0xe161</item>
+        <item>0xe164</item>
+        <item>0xe14f</item>
+        <item>0xe14e</item>
+        <item>0xe14d</item>
+        <item>0xe14c</item>
+        <item>0xe151</item>
+        <item>0xe150</item>
+        <item>0xe153</item>
+        <item>0xe152</item>
+        <item>0xe163</item>
+        <item>0xe165</item>
+        <item>0xe16b</item>
+        <item>0xe16a</item>
+        <item>0xe1a8</item>
+        <item>0xe1a9</item>
+        <item>0xe1aa</item>
+        <item>0xe1ab</item>
+        <item>0xe1ac</item>
+        <item>0xe1ad</item>
+        <item>0xe152</item>
+        <item>0xe1b9</item>
+        <item>0xe1ae</item>
+        <item>0xe1af</item>
+        <item>0xe167</item>
+        <item>0xe168</item>
+        <item>0xe140</item>
+        <item>0xe169</item>
+        <item>0xe141</item>
+        <item>0xe166</item>
+        <item>0xe1c3</item>
+        <item>0xe154</item>
+        <item>0xe1a6</item>
+        <item>0xe1a5</item>
+        <item>0xe1a4</item>
+        <item>0xe1a3</item>
+        <item>0xe1a7</item>
+        <item>0xe1a2</item>
+        <item>0xe1a1</item>
+        <item>0xe1a0</item>
+        <item>0xe1b0</item>
+        <item>0xe1b1</item>
+        <item>0xe1b2</item>
+        <item>0xe1b3</item>
+        <item>0xe1b4</item>
+        <item>0xe1b5</item>
+        <item>0xe1b6</item>
+        <item>0xe1b7</item>
+        <item>0xe1b8</item>
+        <item>0xe1ba</item>
+        <item>0xe1bb</item>
+        <item>0xe1bc</item>
+        <item>0xe1bd</item>
+        <item>0xe1be</item>
+        <item>0xe1bf</item>
+        <item>0xe1c0</item>
+        <item>0xe1c1</item>
+        <item>0xe1c2</item>
+    </integer-array>
+    <integer-array name="arrOut">
+        <item>0</item>
+        <item>0</item>
+        <item>0xe09e</item>
+        <item>0xe05a</item>
+        <item>0xe05b</item>
+        <item>0xe09e</item>
+        <item>0xe058</item>
+        <item>0xe059</item>
+        <item>0xe060</item>
+        <item>0xe052</item>
+        <item>0xe061</item>
+        <item>0xe05f</item>
+        <item>0xe07c</item>
+        <item>0xe07b</item>
+        <item>0xe076</item>
+        <item>0xe075</item>
+        <item>0xe078</item>
+        <item>0xe077</item>
+        <item>0xe07a</item>
+        <item>0xe079</item>
+        <item>0xe05e</item>
+        <item>0xe057</item>
+        <item>0xe05c</item>
+        <item>0xe05d</item>
+        <item>0xe044</item>
+        <item>0xe045</item>
+        <item>0xe046</item>
+        <item>0xe047</item>
+        <item>0xe048</item>
+        <item>0xe049</item>
+        <item>0xe056</item>
+        <item>0xe04c</item>
+        <item>0xe04a</item>
+        <item>0xe04b</item>
+        <item>0xe062</item>
+        <item>0xe04f</item>
+        <item>0xe04e</item>
+        <item>0xe06d</item>
+        <item>0xe04d</item>
+        <item>0xe063</item>
+        <item>0xe04c</item>
+        <item>0xe06e</item>
+        <item>0xe06b</item>
+        <item>0xe06a</item>
+        <item>0xe069</item>
+        <item>0xe068</item>
+        <item>0xe06c</item>
+        <item>0xe067</item>
+        <item>0xe066</item>
+        <item>0xe065</item>
+        <item>0xe085</item>
+        <item>0xe084</item>
+        <item>0xe083</item>
+        <item>0xe082</item>
+        <item>0xe081</item>
+        <item>0xe080</item>
+        <item>0xe07f</item>
+        <item>0xe07e</item>
+        <item>0xe07d</item>
+        <item>0xe085</item>
+        <item>0xe084</item>
+        <item>0xe083</item>
+        <item>0xe082</item>
+        <item>0xe081</item>
+        <item>0xe080</item>
+        <item>0xe07f</item>
+        <item>0xe07e</item>
+        <item>0xe07d</item>
+    </integer-array>
+    <array name="frw_enjoy_pictures">
+        <item>@drawable/frw_offline</item>
+        <item>@drawable/frw_route</item>
+        <item>@drawable/frw_search</item>
+        <item>@drawable/frw_updates</item>
+        <item>@drawable/frw_worldwide</item>
+    </array>
+    <string-array name="frw_enjoy_texts">
+        <item>@string/anui.frw.offline</item>
+        <item>@string/anui.frw.route</item>
+        <item>@string/anui.frw.search</item>
+        <item>@string/anui.frw.updates</item>
+        <item>@string/anui.frw.worldwide</item>
+    </string-array>
+    <string-array name="keyboard_de">
+        <item>q w eéèêë r t z uüúùû iìíîï oöóòôõøœ p</item>
+        <item>aäáàâåâãåæ sßšş d f g h j k l</item>
+        <item>*shift yÿ x cç v b nñ m *del</item>
+        <item>*123 *lang - *space .:;,?! *enter</item>
+    </string-array>
+    <string-array name="keyboard_de_digits">
+        <item>1 2 3 4 5 6 7 8 9 0</item>
+        <item>_ * / + = ( ) € &amp; @</item>
+        <item>"*123alt : ; , ? ! ' \" *del"</item>
+        <item>*abc *lang - *space . *enter</item>
+    </string-array>
+    <string-array name="keyboard_de_digits_alt">
+        <item>~ # \\ | ^ [ ] { } %</item>
+        <item>_ * / + = &lt; > $ £ ¥</item>
+        <item>"*123alt : ; , ? ! ' \" *del"</item>
+        <item>*abc *lang - *space . *enter</item>
+    </string-array>
+    <string-array name="keyboard_de_shift">
+        <item>Q W EÉÈÊË R T Z UÜÚÙÛ IÌÍÎÏ OÖÓÒÔÕØŒ P</item>
+        <item>AÄÁÀÂÅÂÃÅÆ SŠŞ D F G H J K L</item>
+        <item>*shift YŸ X CÇ V B NÑ M *del</item>
+        <item>*123 *lang - *space .:;,?! *enter</item>
+    </string-array>
+    <string-array name="keyboard_en">
+        <item>q w eéèêë r t yÿ uüúùû iìíîï oöóòôõøœ p</item>
+        <item>aäáàâåâãåæ sßšş d f g h j k l</item>
+        <item>*shift z x cç v b nñ m *del</item>
+        <item>*123 *lang - *space .:;,?! *enter</item>
+    </string-array>
+    <string-array name="keyboard_en_digits">
+        <item>1 2 3 4 5 6 7 8 9 0</item>
+        <item>_ * / + = ( ) € &amp; @</item>
+        <item>"*123alt : ; , ? ! ' \" *del"</item>
+        <item>*abc *lang - *space . *enter</item>
+    </string-array>
+    <string-array name="keyboard_en_digits_alt">
+        <item>~ # \\ | ^ [ ] { } %</item>
+        <item>_ * / + = &lt; > $ £ ¥</item>
+        <item>"*123alt : ; , ? ! ' \" *del"</item>
+        <item>*abc *lang - *space . *enter</item>
+    </string-array>
+    <string-array name="keyboard_en_shift">
+        <item>Q W EÉÈÊË R T YŸ UÜÚÙÛ IÌÍÎÏ OÖÓÒÔÕØŒ P</item>
+        <item>AÄÁÀÂÅÂÃÅÆ SŠŞ D F G H J K L</item>
+        <item>*shift Z X CÇ V B NÑ M *del</item>
+        <item>*123 *lang - *space .:;,?! *enter</item>
+    </string-array>
+    <string-array name="keyboard_ru">
+        <item>й ц у к её н г ш щ з х</item>
+        <item>ф ы в а п р о л д ж э</item>
+        <item>*shift я ч с м и т ьъ б ю *del</item>
+        <item>*123 *lang - *space .:;,?! *enter</item>
+    </string-array>
+    <string-array name="keyboard_ru_digits">
+        <item>1 2 3 4 5 6 7 8 9 0</item>
+        <item>_ * / + = ( ) € &amp; @</item>
+        <item>"*123alt : ; , ? ! ' \" *del"</item>
+        <item>*abc *lang - *space . *enter</item>
+    </string-array>
+    <string-array name="keyboard_ru_digits_alt">
+        <item>~ # \\ | ^ [ ] { } %</item>
+        <item>_ * / + = &lt; > $ £ ¥</item>
+        <item>"*123alt : ; , ? ! ' \" *del"</item>
+        <item>*abc *lang - *space . *enter</item>
+    </string-array>
+    <string-array name="keyboard_ru_shift">
+        <item>Й Ц У К ЕЁ Н Г Ш Щ З Х</item>
+        <item>Ф Ы В А П Р О Л Д Ж Э</item>
+        <item>*shift Я Ч С М И Т ЬЪ Б Ю *del</item>
+        <item>*123 *lang - *space .:;,?! *enter</item>
+    </string-array>
+    <integer-array name="quickMenuItems">
+        <item>2</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>5</item>
+        <item>1</item>
+    </integer-array>
+    <integer-array name="quickMenuItemsDebug">
+        <item>2</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>5</item>
+        <item>1</item>
+    </integer-array>
+    <integer-array name="quickMenuItemsFreeDrive">
+        <item>8</item>
+        <item>7</item>
+        <item>5</item>
+    </integer-array>
+    <string-array name="retention">
+        <item>@string/retention.discover</item>
+        <item>@string/retention.drive</item>
+    </string-array>
+    <string-array name="sample_maps">
+        <item>Europe</item>
+        <item>Asia</item>
+        <item>America</item>
+    </string-array>
+    <string-array name="sample_plugins">
+        <item>Plugin 1</item>
+        <item>Plugin 2</item>
+        <item>Plugin 3</item>
+        <item>Plugin 4</item>
+        <item>Plugin 5</item>
+        <item>Plugin 6</item>
+        <item>Plugin 7</item>
+        <item>Plugin 8</item>
+    </string-array>
+    <string-array name="searchBarHints">
+        <item>@string/anui.search.countryState.hint</item>
+        <item>@string/anui.search.cityPostalCode.hint</item>
+        <item>@string/anui.search.street.hint</item>
+        <item>@string/anui.search.crossing.hint</item>
+        <item></item>
+    </string-array>
+    <string-array name="secondary_instruction_settings">
+        <item>@string/anui.settings.display.secondary_instruction.mode.normal</item>
+        <item>@string/anui.settings.display.secondary_instruction.mode.early</item>
+        <item>@string/anui.settings.display.secondary_instruction.mode.always</item>
+    </string-array>
+    <string-array name="settings_10_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+    <string-array name="settings_2_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="settings_3_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="settings_8_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="settings_9_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+    <string-array name="settings_battery_entries">
+        <item>@string/anui.settings.powerManagement.powerSaver</item>
+        <item>@string/anui.settings.powerManagement.optimized</item>
+        <item>@string/anui.settings.powerManagement.highPerformance</item>
+    </string-array>
+    <string-array name="settings_bluetooth_entries">
+        <item>@string/anui.settings.soundsNotifications.notifications.bluetooth.phoneSpeaker</item>
+        <item>@string/anui.settings.soundsNotifications.notifications.bluetooth.preferBluetooth</item>
+    </string-array>
+    <string-array name="settings_buildings_entries">
+        <item>@string/anui.settings.map.details.buildings.elevated</item>
+        <item>@string/anui.settings.map.details.buildings.footprint</item>
+        <item>@string/anui.settings.map.details.buildings.none</item>
+    </string-array>
+    <string-array name="settings_color_scheme_entries">
+        <item>@string/anui.settings.display.colorScheme.day</item>
+        <item>@string/anui.settings.display.colorScheme.night</item>
+        <item>@string/anui.settings.display.colorScheme.automatic</item>
+    </string-array>
+    <string-array name="settings_coords_entries">
+        <item>@string/anui.settings.regional.units.gps.degrees</item>
+        <item>@string/anui.settings.regional.units.gps.minutes</item>
+        <item>@string/anui.settings.regional.units.gps.seconds</item>
+    </string-array>
+    <string-array name="settings_distance_units_entries">
+        <item>@string/anui.settings.regional.units.distance.milesYards</item>
+        <item>@string/anui.settings.regional.units.distance.kilometers</item>
+        <item>@string/anui.settings.regional.units.distance.milesFeets</item>
+    </string-array>
+    <string-array name="settings_information_bar_entries">
+        <item>@string/anui.settings.display.infoBar.none</item>
+        <item>@string/anui.settings.display.infoBar.time</item>
+        <item>@string/anui.settings.display.infoBar.traveledDistance</item>
+        <item>@string/anui.settings.display.infoBar.remainingDistance</item>
+        <item>@string/anui.settings.display.infoBar.elevation</item>
+        <item>@string/anui.settings.display.infoBar.speed</item>
+        <item>@string/anui.settings.display.infoBar.eta</item>
+        <item>@string/anui.settings.display.infoBar.routeLength</item>
+        <item>@string/anui.settings.display.infoBar.remainingTime</item>
+    </string-array>
+    <string-array name="settings_lane_guidance_entries">
+        <item>@string/anui.settings.display.laneGuidance.dynamic</item>
+        <item>@string/anui.settings.display.laneGuidance.simplified</item>
+        <item>@string/anui.settings.display.laneGuidance.off</item>
+    </string-array>
+    <string-array name="settings_poi_on_route_entries">
+        <item>@string/anui.settings.map.poiOnRoute.off</item>
+        <item>@string/anui.settings.map.poiOnRoute.on</item>
+        <item>@string/anui.settings.map.poiOnRoute.dynamic</item>
+    </string-array>
+    <string-array name="settings_route_compute_entries">
+        <item>@string/anui.settings.route.compute.fast</item>
+        <item>@string/anui.settings.route.compute.short</item>
+        <item>@string/anui.settings.route.compute.eco</item>
+    </string-array>
+    <string-array name="settings_temperature_entries">
+        <item>@string/anui.settings.regional.units.temperature.celsius</item>
+        <item>@string/anui.settings.regional.units.temperature.fahrenheit</item>
+    </string-array>
+    <string-array name="settings_time_format_entries">
+        <item>@string/anui.settings.regional.units.time.24</item>
+        <item>@string/anui.settings.regional.units.time.12</item>
+        <item>@string/anui.settings.regional.units.time.12AmPm</item>
+    </string-array>
+    <array name="trial_promotion_pictures">
+        <item>@drawable/enjoy_screen1</item>
+        <item>@drawable/enjoy_screen2</item>
+        <item>@drawable/enjoy_screen3</item>
+        <item>@drawable/enjoy_screen4</item>
+        <item>@drawable/enjoy_screen5</item>
+    </array>
+    <string-array name="trial_promotion_texts">
+        <item>@string/anui.trial.promotion_text1</item>
+        <item>@string/anui.trial.promotion_text2</item>
+        <item>@string/anui.trial.promotion_text3</item>
+        <item>@string/anui.trial.promotion_text4</item>
+        <item>@string/anui.trial.promotion_text5</item>
+    </string-array>
+</resources>

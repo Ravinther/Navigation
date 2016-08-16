@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ViewSwitcher sygic:id="0x7f0e01a3" sygic:visibility="2" sygic:layout_width="-2" sygic:layout_height="-2">
+    <com.sygic.aura.route.view.SpeedLimitSignShape sygic:background="0x7f020219" sygic:layout_width="72dp" sygic:layout_height="72dp" sygic:layout_marginRight="5dp">
+        <com.sygic.aura.views.font_specials.STextView sygic:textSize="28sp" sygic:textColor="0x7f0d018a" sygic:gravity="11" sygic:id="0x7f0e01a4" sygic:layout_width="-1" sygic:layout_height="-1" sygic:font="0x7f070392" />
+    </com.sygic.aura.route.view.SpeedLimitSignShape>
+    <com.sygic.aura.route.view.SpeedLimitSignShape sygic:background="0x7f02021a" sygic:layout_width="66dp" sygic:layout_height="77dp">
+        <com.sygic.aura.views.font_specials.STextView sygic:textSize="14sp" sygic:textColor="0x7f0d018a" sygic:gravity="1" sygic:layout_gravity="31" sygic:id="@id/text" sygic:layout_width="-1" sygic:layout_height="-2" sygic:layout_marginTop="5dp" sygic:text="0x7f0703e5" sygic:font="0x7f070392" />
+        <com.sygic.aura.views.font_specials.STextView sygic:textSize="28sp" sygic:textColor="0x7f0d018a" sygic:gravity="11" sygic:layout_gravity="51" sygic:id="0x7f0e01a4" sygic:layout_width="-1" sygic:layout_height="-2" sygic:layout_below="@id/text" sygic:font="0x7f070392" />
+    </com.sygic.aura.route.view.SpeedLimitSignShape>
+</ViewSwitcher>

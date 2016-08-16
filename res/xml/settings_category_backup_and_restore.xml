@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen>
+    <com.sygic.aura.settings.preferences.DropboxDialogSwitchPreference sygic:title="0x7f07020f" sygic:key="0x7f070438" sygic:dialogMessage="0x7f0700cd" sygic:dialogTitle="0x7f0700ce" sygic:negativeButtonText="0x7f0700a7" sygic:positiveButtonText="0x7f0700a8" />
+</PreferenceScreen>

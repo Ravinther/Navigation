@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:"http://schemas.android.com/apk/res/android" android:versionCode="225" android:versionName="15.5.9" android:installLocation="auto" package="com.sygic.aura" platformBuildVersionCode="23" platformBuildVersionName="6.0-2166767">
+    <uses-sdk android:minSdkVersion="14" android:targetSdkVersion="22" />
+    <supports-screens android:anyDensity="true" android:smallScreens="true" android:normalScreens="true" android:largeScreens="true" android:xlargeScreens="true" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-feature android:name="android.hardware.telephony" android:required="false" />
+    <uses-feature android:name="android.hardware.camera.autofocus" android:required="false" />
+    <uses-feature android:name="android.hardware.camera" android:required="false" />
+    <uses-feature android:name="android.hardware.location.network" android:required="false" />
+    <uses-feature android:name="android.hardware.microphone" android:required="false" />
+    <uses-feature android:name="android.hardware.bluetooth" android:required="false" />
+    <permission android:name="com.sygic.aura.permission.C2D_MESSAGE" android:protectionLevel="signature|signatureOrSystem" />
+    <uses-permission android:name="com.sygic.aura.permission.C2D_MESSAGE" />
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+    <supports-screens android:anyDensity="true" android:smallScreens="true" android:normalScreens="true" android:largeScreens="true" android:xlargeScreens="true" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.READ_LOGS" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BROADCAST_STICKY" />
+    <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" />
+    <uses-permission android:name="com.android.vending.BILLING" />
+    <uses-permission android:name="com.android.vending.CHECK_LICENSE" />
+    <uses-feature android:glEsVersion="20000" android:required="true" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <application android:theme="0x7f09008d" android:label="@string/app_name" android:icon="@drawable/sygic" android:name="com.sygic.aura.SygicApplication" android:allowBackup="true" android:hardwareAccelerated="true" android:supportsRtl="true">
+        <activity android:label="@string/app_name" android:name="com.sygic.aura.activity.NaviNativeActivity" android:launchMode="singleTask" android:configChanges="keyboard|keyboardHidden|orientation|uiMode|screenSize" android:windowSoftInputMode="22">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <intent-filter>
+                <data android:scheme="http" android:host="com.sygic.aura" />
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter>
+                <data android:scheme="com.sygic.aura" />
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter>
+                <data android:scheme="fb105659562809354" />
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter>
+                <data android:scheme="ssogoogle" />
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter>
+                <data android:mimeType="vnd.android.cursor.item/postal-address_v2" />
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter>
+                <data android:scheme="geo" />
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter>
+                <data android:scheme="db-jlti4f13g1dbwhb" />
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <data android:scheme="http" />
+                <data android:scheme="https" />
+                <data android:pathPrefix="/maps" />
+                <data android:host="maps.google.com.br" />
+                <data android:host="maps.google.fr" />
+                <data android:host="maps.google.de" />
+                <data android:host="maps.google.co.in" />
+                <data android:host="maps.google.it" />
+                <data android:host="maps.google.co.jp" />
+                <data android:host="maps.google.ru" />
+                <data android:host="maps.google.es" />
+                <data android:host="maps.google.co.uk" />
+                <data android:host="maps.google.com" />
+                <data android:host="maps.google.com.au" />
+                <data android:host="maps.google.com.be" />
+                <data android:host="maps.google.ca" />
+                <data android:host="maps.google.ie" />
+                <data android:host="maps.google.nl" />
+                <data android:host="maps.google.no" />
+                <data android:host="maps.google.pl" />
+                <data android:host="maps.google.ch" />
+                <data android:host="maps.google.com.tw" />
+                <data android:host="maps.google.dz" />
+                <data android:host="maps.google.com.ar" />
+                <data android:host="maps.google.at" />
+                <data android:host="maps.google.cl" />
+                <data android:host="maps.google.cz" />
+                <data android:host="maps.google.dk" />
+                <data android:host="maps.google.com.eg" />
+                <data android:host="maps.google.fi" />
+                <data android:host="maps.google.gr" />
+                <data android:host="maps.google.com.hk" />
+                <data android:host="maps.google.hu" />
+                <data android:host="maps.google.co.id" />
+                <data android:host="maps.google.co.il" />
+                <data android:host="maps.google.jo" />
+                <data android:host="maps.google.co.ke" />
+                <data android:host="maps.google.cm.kr" />
+                <data android:host="maps.google.com.my" />
+                <data android:host="maps.google.com.mx" />
+                <data android:host="maps.google.co.nz" />
+                <data android:host="maps.google.pt" />
+                <data android:host="maps.google.com.sa" />
+                <data android:host="maps.google.com.sg" />
+                <data android:host="maps.google.sk" />
+                <data android:host="maps.google.co.za" />
+                <data android:host="maps.google.se" />
+                <data android:host="maps.google.co.th" />
+                <data android:host="maps.google.ae" />
+                <data android:host="maps.google.co.ac" />
+                <data android:host="maps.google.com.bh" />
+                <data android:host="maps.google.bj" />
+                <data android:host="maps.google.co.bw" />
+                <data android:host="maps.google.bi" />
+                <data android:host="maps.google.cf" />
+                <data android:host="maps.google.td" />
+                <data android:host="maps.google.cg" />
+                <data android:host="maps.google.cd" />
+                <data android:host="maps.google.ci" />
+                <data android:host="maps.google.dj" />
+                <data android:host="maps.google.ga" />
+                <data android:host="maps.google.gm" />
+                <data android:host="maps.google.com.gh" />
+                <data android:host="maps.google.iq" />
+                <data android:host="maps.google.com.kw" />
+                <data android:host="maps.google.com.lb" />
+                <data android:host="maps.google.com.ly" />
+                <data android:host="maps.google.li" />
+                <data android:host="maps.google.mw" />
+                <data android:host="maps.google.mu" />
+                <data android:host="maps.google.co.mz" />
+                <data android:host="maps.google.com.na" />
+                <data android:host="maps.google.com.ng" />
+                <data android:host="maps.google.com.om" />
+                <data android:host="maps.google.com.qa" />
+                <data android:host="maps.google.rw" />
+                <data android:host="maps.google.st" />
+                <data android:host="maps.google.sc" />
+                <data android:host="maps.google.com.sl" />
+                <data android:host="maps.google.com.tz" />
+                <data android:host="maps.google.tg" />
+                <data android:host="maps.google.tn" />
+                <data android:host="maps.google.co.ug" />
+                <data android:host="maps.google.co.zm" />
+                <data android:host="maps.google.co.zw" />
+                <data android:host="maps.google.cn" />
+            </intent-filter>
+            <intent-filter>
+                <data android:scheme="google.navigation" />
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter android:label="@string/anui_show_photo_in_app">
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data android:mimeType="image/*" />
+                <data android:scheme="file" />
+            </intent-filter>
+            <intent-filter android:label="@string/anui_show_photo_in_app">
+                <action android:name="android.intent.action.SEND" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <data android:mimeType="image/*" />
+            </intent-filter>
+        </activity>
+        <meta-data android:name="io.fabric.ApiKey" android:value="4317c375887bd661392d0871c9e700690e3dd03b" />
+        <meta-data android:name="flurry.ApiKey" android:value="4WRQC7FHNFXZFM8KGSS8" />
+        <meta-data android:name="com.google.android.gms.version" android:value="0x7f0a0008" />
+        <service android:name="com.sygic.aura.blackbox.BlackBoxService" android:process=":blackbox" />
+        <receiver android:name="com.sygic.aura.service.AlarmReceiver">
+            <intent-filter>
+                <action android:name="com.sygic.aura.ACTION_RATE_NOTIFICATION" />
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+                <action android:name="com.htc.intent.action.QUICKBOOT_POWERON" />
+                <action android:name="com.sygic.aura.ACTION_REMINDED_NOTIFICATION" />
+                <action android:name="com.sygic.aura.ACTION_POSTPONE_NOTIFICATION" />
+                <action android:name="com.sygic.aura.ACTION_RETENTION_NOTIFICATION" />
+            </intent-filter>
+        </receiver>
+        <receiver android:label="@string/app_name" android:name="com.sygic.widget.TrafficWidgetProvider">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+                <action android:name="android.appwidget.action.APPWIDGET_ENABLED" />
+                <action android:name="android.appwidget.action.APPWIDGET_DELETED" />
+                <action android:name="android.appwidget.action.APPWIDGET_DISABLED" />
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+            <meta-data android:name="android.appwidget.provider" android:resource="0x7f0500fe" />
+        </receiver>
+        <service android:name="com.sygic.widget.TrafficWidgetService" android:permission="android.permission.BIND_REMOTEVIEWS" android:exported="false" />
+        <service android:name="com.sygic.widget.tomtom.TomTomTrafficService" />
+        <provider android:name="com.sygic.widget.WidgetDataProvider" android:exported="true" android:authorities="com.sygic.aura.widget.traffic.provider" />
+        <service android:label="NavigationService" android:name="com.sygic.aura.fcd.FloatingCarDataService" android:exported="false" android:process=":fcd" />
+        <provider android:name="android.support.v4.content.FileProvider" android:exported="false" android:authorities="0x7f070390" android:grantUriPermissions="true">
+            <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="0x7f050006" />
+        </provider>
+        <service android:name="com.google.android.gms.analytics.CampaignTrackingService" android:enabled="true" android:exported="false" />
+        <receiver android:name="com.sygic.aura.utils.CustomInstallReferrerReceiver" android:enabled="true" android:exported="true">
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.infinario.android.infinariosdk.ReferrerReceiver" android:enabled="false" android:exported="true">
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER" />
+            </intent-filter>
+        </receiver>
+        <activity android:name="com.sygic.aura.CameraActivity" android:screenOrientation="landscape" android:configChanges="keyboard|keyboardHidden|orientation|uiMode|screenSize" />
+        <activity android:theme="@*android:style/Theme.NoTitleBar.Fullscreen" android:name="com.sygic.aura.WebActivity" android:configChanges="keyboard|keyboardHidden|orientation|uiMode|screenSize" />
+        <service android:name="com.sygic.aura.RemoteService">
+            <intent-filter>
+                <action android:name="com.sygic.aura.SYGIC_SERVICE" />
+                <action android:name="com.sygic.aura.IRemoteService" />
+            </intent-filter>
+        </service>
+        <service android:name="com.sygic.aura.SygicService" android:exported="true">
+            <intent-filter>
+                <action android:name="com.sygic.intent.action.bindRemoteService" />
+            </intent-filter>
+        </service>
+        <receiver android:name="com.sygic.aura.c2dm.C2DMReceiver" android:permission="com.google.android.c2dm.permission.SEND">
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+                <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
+                <category android:name="com.sygic.aura" />
+            </intent-filter>
+        </receiver>
+        <activity android:name="com.sygic.aura.downloader.DownloaderActivity" android:excludeFromRecents="true" android:configChanges="keyboard|keyboardHidden|orientation|uiMode|screenSize" />
+        <service android:name="com.sygic.aura.downloader.SygicDownloaderService" />
+        <service android:name="com.sygic.aura.c2dm.NotifImageDownloaderService" />
+        <service android:name="com.sygic.aura.tracker.TrackerService" />
+        <receiver android:name="com.sygic.aura.downloader.SygicAlarmReceiver" />
+        <receiver android:name="com.sygic.aura.connectivity.ConnectivityReceiver">
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+        </receiver>
+        <meta-data android:name="com.facebook.sdk.ApplicationId" android:value="@string/fb_app_id" />
+        <receiver android:name="com.sygic.aura.utils.NotificationReceiver">
+            <intent-filter>
+                <action android:name="com.sygic.aura.ACTION_DISMISSED_PROMO_NOTIFICATION" />
+                <action android:name="com.sygic.aura.ACTION_DISMISSED_RETENTION_NOTIFICATION" />
+            </intent-filter>
+        </receiver>
+        <service android:name="com.infinario.android.infinariosdk.GcmIntentService" />
+        <activity android:theme="@*android:style/Theme.Translucent" android:name="com.google.android.gms.ads.AdActivity" android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize" />
+        <activity android:theme="0x7f090162" android:name="com.google.android.gms.ads.purchase.InAppPurchaseActivity" />
+    </application>
+</manifest>

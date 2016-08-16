@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <com.sygic.aura.views.font_specials.STextView sygic:textSize="16sp" sygic:textColor="0x7f0d00a3" sygic:gravity="11" sygic:id="0x7f0e02bb" sygic:background="0x7f0202bd" sygic:visibility="1" sygic:layout_width="-2" sygic:layout_height="-2" sygic:text="0x7f0703bd" sygic:font="0x7f070391" />
+</merge>

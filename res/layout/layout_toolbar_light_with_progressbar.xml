@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sygic.aura.views.font_specials.SToolbar android:id="0x7f0e0122" style="0x7f090168">
+    <include layout="0x7f0300b3" />
+</com.sygic.aura.views.font_specials.SToolbar>

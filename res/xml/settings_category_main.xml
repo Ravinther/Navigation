@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen>
+    <com.sygic.aura.settings.preferences.SettingsFragmentPreference sygic:title="0x7f07021a" sygic:useIconTextLayout="true" sygic:iconStringRes="0x7f070447" sygic:preferences="0x7f0500ed" />
+    <com.sygic.aura.settings.preferences.SettingsFragmentPreference sygic:title="0x7f070220" sygic:useIconTextLayout="true" sygic:iconStringRes="0x7f07044a" sygic:preferences="0x7f0500f1" />
+    <com.sygic.aura.settings.preferences.SettingsFragmentPreference sygic:title="0x7f07021e" sygic:useIconTextLayout="true" sygic:iconStringRes="0x7f070449" sygic:preferences="0x7f0500f0" sygic:registerOnChange="true" sygic:fragmentClassName="com.sygic.aura.settings.fragments.RegionalSettingsFragment" />
+    <com.sygic.aura.settings.preferences.SeparatorPreference sygic:layout="0x7f0300ef" />
+    <com.sygic.aura.settings.preferences.SettingsFragmentPreference sygic:title="0x7f070221" sygic:useIconTextLayout="true" sygic:iconStringRes="0x7f07044b" sygic:preferences="0x7f0500f2" sygic:registerOnChange="true" sygic:fragmentClassName="com.sygic.aura.settings.fragments.VoiceNotificationSettingsFragment" sygic:premiumFeatures="1" />
+    <com.sygic.aura.settings.preferences.SettingsFragmentPreference sygic:title="0x7f070218" sygic:useIconTextLayout="true" sygic:iconStringRes="0x7f070444" sygic:preferences="0x7f0500ef" sygic:premiumFeatures="5" />
+    <com.sygic.aura.settings.preferences.SettingsFragmentPreference sygic:title="0x7f070216" sygic:useIconTextLayout="true" sygic:iconStringRes="0x7f070443" sygic:preferences="0x7f0500ea" />
+    <com.sygic.aura.settings.preferences.SeparatorPreference sygic:layout="0x7f0300ef" />
+    <com.sygic.aura.settings.preferences.SettingsFragmentPreference sygic:title="0x7f070214" sygic:useIconTextLayout="true" sygic:iconStringRes="0x7f070442" sygic:preferences="0x7f0500e9" />
+    <com.sygic.aura.settings.preferences.SeparatorPreference sygic:layout="0x7f0300ef" />
+    <com.sygic.aura.settings.preferences.SettingsFragmentPreference sygic:title="0x7f070213" sygic:useIconTextLayout="true" sygic:iconStringRes="0x7f070441" sygic:preferences="0x7f0500e8" />
+    <com.sygic.aura.settings.preferences.OnlineApplicationPreference sygic:title="0x7f070253" sygic:key="0x7f070464" sygic:useIconTextLayout="true" sygic:iconStringRes="0x7f070445" />
+    <com.sygic.aura.settings.preferences.RateSygicPreference sygic:title="0x7f07025a" sygic:useIconTextLayout="true" sygic:iconStringRes="0x7f070448" />
+    <com.sygic.aura.settings.preferences.SettingsFragmentPreference sygic:title="0x7f07024c" sygic:key="0x7f07044c" sygic:useIconTextLayout="true" sygic:iconStringRes="0x7f070446" sygic:preferences="0x7f0500f3" />
+</PreferenceScreen>

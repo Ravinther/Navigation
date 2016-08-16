@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout sygic:orientation="1" sygic:background="0x7f0d0024" sygic:clickable="true" sygic:layout_width="-1" sygic:layout_height="-1" sygic:cacheColorHint="0x7f0d0024">
+    <include layout="0x7f0300b0" />
+    <LinearLayout sygic:gravity="10" sygic:id="0x7f0e0152" sygic:background="0x7f02022d" sygic:padding="16dp" sygic:layout_width="-1" sygic:layout_height="0x7f0800c2">
+        <com.sygic.aura.views.font_specials.STextView sygic:id="@id/title" sygic:layout_width="0dp" sygic:layout_height="-2" sygic:layout_marginRight="16dp" sygic:layout_weight="1.0" sygic:layout_marginEnd="16dp" style="0x7f0900db" />
+        <android.support.v7.widget.SwitchCompat sygic:theme="0x7f09011a" sygic:id="0x7f0e0153" sygic:layout_width="-2" sygic:layout_height="-2" />
+    </LinearLayout>
+    <com.sygic.aura.views.font_specials.STextView sygic:clickable="true" sygic:textId="0x7f07021b" style="0x7f09010b" />
+    <ListView sygic:id="0x7f0e011d" sygic:layout_width="-1" sygic:layout_height="-1" sygic:listSelector="0x7f02022d" sygic:divider="0x7f0d0000" sygic:dividerHeight="0x7f0800a0" />
+</LinearLayout>

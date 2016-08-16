@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen>
+    <com.sygic.aura.settings.preferences.SummaryListPreference sygic:entries="0x7f0c0026" sygic:title="0x7f070269" sygic:key="0x7f070532" sygic:defaultValue="1" sygic:entryValues="0x7f0c001b" />
+    <com.sygic.aura.settings.preferences.FragmentPreference sygic:title="0x7f070269" sygic:fragment_class="com.sygic.aura.settings.fragments.PoiOnRouteSettingsFragment" />
+</PreferenceScreen>

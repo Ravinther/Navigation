@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="0x7f0e00af" android:layout_width="-1" android:layout_height="-1">
+    <com.sygic.aura.views.GalleryViewPager android:id="0x7f0e0115" android:layout_width="-1" android:layout_height="-1" />
+    <com.sygic.aura.views.CirclePageIndicator android:layout_gravity="50" android:id="0x7f0e0116" android:layout_width="-1" android:layout_height="-2" android:layout_marginBottom="24dp" />
+</FrameLayout>

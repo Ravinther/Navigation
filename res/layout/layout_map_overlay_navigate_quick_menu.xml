@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout sygic:layout_width="-1" sygic:layout_height="-1">
+    <com.sygic.aura.map.notification.NotificationCenterView sygic:gravity="11" sygic:orientation="1" sygic:id="0x7f0e01e4" sygic:paddingTop="12dp" sygic:paddingBottom="12dp" sygic:layout_width="-2" sygic:layout_height="-1" sygic:layout_marginLeft="0x7f0800e5" sygic:layout_marginTop="0x7f080026" sygic:layout_marginBottom="0x7f080109" sygic:accepts="10" />
+    <LinearLayout sygic:layout_gravity="50" sygic:orientation="1" sygic:layout_width="-1" sygic:layout_height="-2">
+        <com.sygic.aura.views.font_specials.SToggleButton sygic:layout_gravity="5" sygic:id="0x7f0e01e1" sygic:visibility="2" sygic:layout_marginRight="0x7f0800e5" sygic:textSrcOn="0x7f050064" sygic:textSrcOff="0x7f050063" style="0x7f0900de" />
+        <com.sygic.aura.views.font_specials.SImageButton sygic:layout_gravity="5" sygic:id="0x7f0e01e0" sygic:layout_marginTop="2dp" sygic:layout_marginRight="0x7f0800e5" sygic:inCarScale="true" sygic:textSrc="0x7f05006a" style="0x7f0900de" />
+        <com.sygic.aura.views.font_specials.SImageButton sygic:layout_gravity="5" sygic:id="0x7f0e01df" sygic:layout_marginTop="2dp" sygic:layout_marginRight="0x7f0800e5" sygic:layout_marginBottom="2dp" sygic:inCarScale="true" sygic:textSrc="0x7f05006b" style="0x7f0900de" />
+        <com.sygic.aura.views.font_specials.SToggleButton sygic:layout_gravity="5" sygic:id="0x7f0e01de" sygic:visibility="0" sygic:layout_marginTop="2dp" sygic:layout_marginRight="0x7f0800e5" sygic:inCarScale="true" sygic:textSrc="0x7f05005a" style="0x7f0900df" />
+        <com.sygic.aura.quickmenu.QuickMenuView sygic:scrollbarSize="0x7f08010c" sygic:scrollbarThumbHorizontal="0x7f0d018a" sygic:layout_gravity="50" sygic:id="0x7f0e01eb" sygic:background="0x7f0d0039" sygic:scrollbars="100" sygic:layout_width="-1" sygic:layout_height="0x7f080109" sygic:layout_marginTop="0x7f0800e5" sygic:fadeScrollbars="false">
+            <LinearLayout sygic:orientation="0" sygic:id="0x7f0e01ec" sygic:tag="navigate_quick_menu" sygic:layout_width="-2" sygic:layout_height="-1" />
+        </com.sygic.aura.quickmenu.QuickMenuView> />
+</FrameLayout>

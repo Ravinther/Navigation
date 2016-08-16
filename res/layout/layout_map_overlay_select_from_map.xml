@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout sygic:padding="0x7f0800e5" sygic:layout_width="-1" sygic:layout_height="-1"
+    <RelativeLayout sygic:gravity="50" sygic:id="0x7f0e01d9" sygic:layout_width="-2" sygic:layout_height="0x7f080116" sygic:layout_alignParentBottom="true">
+        <com.sygic.aura.views.font_specials.SToggleButton sygic:id="0x7f0e01dd" sygic:visibility="2" sygic:layout_alignParentLeft="true" sygic:layout_alignParentBottom="true" sygic:textSrc="0x7f050067" style="0x7f0900df" />
+    </RelativeLayout>
+    <include sygic:layout_width="0x7f080087" sygic:layout_height="0x7f080086" sygic:layout_marginTop="0x7f080028" sygic:layout_alignParentTop="true" sygic:layout_alignParentRight="true" layout="0x7f030079" />
+    <com.sygic.aura.views.font_specials.SToggleButton sygic:id="0x7f0e01de" sygic:layout_marginTop="2dp" sygic:layout_above="0x7f0e01d9" sygic:layout_alignParentRight="true" sygic:layout_alignParentBottom="true" sygic:inCarScale="true" sygic:textSrc="0x7f05005a" style="0x7f0900df" />
+    <com.sygic.aura.views.font_specials.SToggleButton sygic:id="0x7f0e01e1" sygic:visibility="2" sygic:layout_above="0x7f0e01de" sygic:layout_alignLeft="0x7f0e01de" sygic:layout_alignParentRight="true" sygic:textSrcOn="0x7f050064" sygic:textSrcOff="0x7f050063" style="0x7f0900de" />
+</RelativeLayout>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sygic.aura.settings.view.CheckableListItem android:orientation="0" android:background="0x7f02022d" android:paddingLeft="16dp" android:paddingRight="16dp" android:layout_width="-1" android:layout_height="0x7f0800c6">
+    <com.sygic.aura.views.font_specials.STextView android:textAppearance="?unknown_attr_ref: 1010041" android:textColor="0x7f0d0123" android:ellipsize="3" android:gravity="13" android:id="@id/title" android:layout_width="0dp" android:layout_height="-1" android:lines="1" android:drawablePadding="8dp" android:layout_weight="1.0" />
+    <ImageView android:layout_gravity="10" android:id="0x7f0e0220" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="12dp" android:contentDescription="@ttsconst/TTSEVT_AUDIOSTART" />
+</com.sygic.aura.settings.view.CheckableListItem>

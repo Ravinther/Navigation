@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Toolbar.Map" parent="@style/Toolbar">
+        <item name="android:background">@drawable/map_toolbar_background</item>
+        <item name="android:layout_width">@dimen/mapToolbarWidth</item>
+        <item name="android:layout_height">@dimen/mapToolbarHeight</item>
+        <item name="android:layout_margin">8.0dip</item>
+        <item name="android:minHeight">@dimen/mapToolbarHeight</item>
+    </style>
+    <style name="Widget.Design.TabLayout" parent="@style/Base.Widget.Design.TabLayout">
+        <item name="tabMode">fixed</item>
+        <item name="tabGravity">center</item>
+    </style>
+</resources>

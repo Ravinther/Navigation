@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen>
+    <com.sygic.aura.settings.preferences.FragmentPreference sygic:title="0x7f07026d" sygic:fragment_class="com.sygic.aura.settings.fragments.PoiSettingsFragment" />
+    <com.sygic.aura.settings.preferences.StyleableSwitchPreference sygic:title="0x7f07024b" sygic:key="0x7f0705f5" />
+    <com.sygic.aura.settings.preferences.StyleableSwitchPreference sygic:title="0x7f07025e" sygic:key="0x7f070468" />
+    <com.sygic.aura.settings.preferences.SettingsFragmentPreference sygic:title="0x7f07025f" sygic:preferences="0x7f0500ee" />
+</PreferenceScreen>

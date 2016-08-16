@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen>
+    <com.sygic.aura.settings.preferences.GpsLogPref sygic:layout="0x7f0300ed" sygic:title="0x7f07024e" sygic:key="0x7f070462" sygic:dialogTitle="0x7f07024e" sygic:dialogMessage="0x7f07024e" sygic:positiveButtonText="0x7f0700ab" sygic:negativeButtonText="0x7f0700a7" sygic:inputType="0" />
+    <com.sygic.aura.settings.preferences.GpsLogPref sygic:layout="0x7f0300ed" sygic:title="0x7f07024f" sygic:dialogTitle="0x7f07024f" sygic:dialogMessage="0x7f07024f" sygic:positiveButtonText="0x7f0700ab" sygic:negativeButtonText="0x7f0700a7" sygic:inputType="1" />
+    <com.sygic.aura.settings.preferences.GpsLogStopPref sygic:title="0x7f070250" />
+</PreferenceScreen>

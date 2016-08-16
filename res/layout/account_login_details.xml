@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:theme="0x7f0900c7" android:orientation="1" android:padding="10dp" android:layout_width="-1" android:layout_height="-1">
+    <EditText android:id="0x7f0e00a9" android:layout_width="-1" android:layout_height="-2" android:hint="0x7f070071" android:inputType="21" android:textCursorDrawable="@ttsconst/TTSEVT_AUDIOSTART" style="0x7f0900dd" />
+    <EditText android:id="0x7f0e00aa" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="10dp" android:hint="0x7f070075" android:inputType="81" android:textCursorDrawable="@ttsconst/TTSEVT_AUDIOSTART" style="0x7f0900dd" />
+</LinearLayout>

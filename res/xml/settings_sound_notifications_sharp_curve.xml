@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen>
+    <com.sygic.aura.settings.preferences.StyleableSwitchPreference sygic:title="0x7f07029d" sygic:key="0x7f07061e" />
+    <com.sygic.aura.settings.preferences.SPreferenceCategory sygic:layout="0x7f0300ef" sygic:title="0x7f070290">
+        <com.sygic.aura.settings.preferences.FragmentPreference sygic:title="0x7f0702a3" sygic:key="0x7f070622" sygic:dependency="0x7f07061e" sygic:fragment_class="com.sygic.aura.settings.fragments.SoundSettingsFragment" sygic:fragment_data="eDangerTurnNotifSound" />
+        <com.sygic.aura.settings.preferences.ThreeSeekBarsPreference sygic:title="0x7f07029e" sygic:key="0x7f07061f" sygic:dependency="0x7f07061e" sygic:keySecondary="0x7f070621" sygic:keyTertiary="0x7f070620" sygic:titleSeekBarPrimary="0x7f07029f" sygic:titleSeekBarSecondary="0x7f0702a1" sygic:titleSeekBarTertiary="0x7f0702a0" sygic:rangeMaxPrimary="17" sygic:rangeMaxSecondary="17" sygic:rangeMaxTertiary="17" sygic:message="0x7f0702a2" sygic:formaterTypePrimary="eAngle" sygic:formaterTypeSecondary="eAngle" sygic:formaterTypeTertiary="eAngle" />
+    </com.sygic.aura.settings.preferences.SPreferenceCategory>
+</PreferenceScreen>

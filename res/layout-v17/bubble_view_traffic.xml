@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <com.sygic.aura.views.font_specials.SImageView sygic:id="0x7f0e00c4" sygic:padding="8dp" sygic:layout_width="-2" sygic:layout_height="-1" sygic:textSrc="0x7f050020" />
+    <LinearLayout sygic:orientation="1" sygic:paddingTop="4dp" sygic:paddingRight="8dp" sygic:paddingBottom="4dp" sygic:layout_width="-2" sygic:layout_height="-1" sygic:paddingEnd="8dp">
+        <com.sygic.aura.views.font_specials.STextView sygic:textSize="14sp" sygic:textColor="0x7f0d014a" sygic:id="@id/time" sygic:paddingBottom="2dp" sygic:layout_width="-2" sygic:layout_height="-2" sygic:font="0x7f070393" />
+        <com.sygic.aura.views.font_specials.STextView sygic:textSize="10sp" sygic:textColor="0x7f0d014a" sygic:id="0x7f0e00b7" sygic:layout_width="-2" sygic:layout_height="-2" sygic:font="0x7f070393" />
+    </LinearLayout>
+</merge>

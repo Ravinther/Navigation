@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="additionalDownload.title">מוריד...</string>
+    <string name="button.cancel">ביטול</string>
+    <string name="button.quit">יציאה</string>
+    <string name="button.retry">נסה שוב</string>
+    <string name="button.settings">אפשרויות</string>
+    <string name="message.aes.download.failed">אופס. אירעה שגיאה בהורדת קובצי המשאבים מ-Google Play.</string>
+    <string name="message.aes.unpack.failed">אופס. אירעה שגיאה בעיבוד הנתונים שהורדו מ-Google Play.</string>
+    <string name="message.gps.warning">הפוך שירותי מיקום לפעילים כדי לקבוע את מיקומך.</string>
+    <string name="message.inifiles.missing" formatted="false">חסרים קבצים שנדרשים ל%app_name%...</string>
+    <string name="message.minres.failed">אופס. אירעה שגיאה בעיבוד הנתונים הנחוצים להרצת היישום.</string>
+    <string name="message.nolicense">יישום זה אינו ברשיון. אנא רכוש אותו מ-Android Market או הפוך את חיבורי הרשת שלך לזמינים ונסה שוב.</string>
+    <string name="message.notification.sygic" formatted="false">הקש כאן כדי להציג את %app_name%</string>
+    <string name="message.processing">המתן בזמן עיבוד הנתונים שהורדו.</string>
+    <string name="message.sdcard.missing">חסר כרטיס SD. אנא בדוק...</string>
+    <string name="process_name">Sygic</string>
+    <string name="resources.download.info">אנא המתן. מוריד משאבים חיוניים ליישום זה. תודה לך.</string>
+    <string name="retention.discover">גלה מקומות נפלאים להגיע אליהם באמצעות Sygic.</string>
+    <string name="retention.drive">סע בצורה חכמה יותר באמצעות Sygic.</string>
+    <string name="retention.open.app">פתח יישום</string>
+    <string name="shop.error.notEnoughSpace" formatted="false">אין מספיק זכרון להורדת הנתונים. דרוש %size% MB</string>
+    <string name="title.gps.warning">GPS אינו מופעל</string>
+    <string name="title.processing">מעבד...</string>
+    <string name="title.warning">אזהרה</string>
+</resources>

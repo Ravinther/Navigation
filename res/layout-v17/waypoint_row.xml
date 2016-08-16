@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sygic.aura.search.view.SearchFrame sygic:orientation="0" sygic:paddingLeft="16dp" sygic:paddingRight="8dp" sygic:clickable="true" sygic:layout_width="-1" sygic:layout_height="0x7f080167" sygic:paddingStart="16dp" sygic:paddingEnd="8dp">
+    <com.sygic.aura.views.font_specials.SImageView sygic:id="0x7f0e02bc" sygic:focusable="false" sygic:focusableInTouchMode="false" sygic:visibility="0" sygic:longClickable="true" sygic:layout_width="0x7f0800c1" sygic:layout_height="-1" sygic:scaleType="2" />
+    <FrameLayout sygic:layout_width="0dp" sygic:layout_height="-1" sygic:layout_weight="1.0">
+        <HorizontalScrollView sygic:id="0x7f0e02bd" sygic:layout_width="-1" sygic:layout_height="-1" style="0x7f0901fa">
+            <LinearLayout sygic:gravity="10" sygic:id="0x7f0e02be" sygic:paddingLeft="28dp" sygic:paddingRight="12dp" sygic:clickable="true" sygic:longClickable="true" sygic:layout_width="-2" sygic:layout_height="-1" sygic:paddingStart="28dp" sygic:paddingEnd="12dp">
+                <com.sygic.aura.search.view.SearchBubble sygic:id="0x7f0e02bf" sygic:visibility="2" sygic:longClickable="true" style="0x7f0901c9" />
+                <com.sygic.aura.search.view.SearchBubble sygic:id="0x7f0e02c0" sygic:visibility="2" sygic:longClickable="true" style="0x7f0901c9" />
+                <com.sygic.aura.search.view.SearchBubble sygic:id="0x7f0e02c1" sygic:visibility="2" sygic:longClickable="true" style="0x7f0901c9" />
+                <com.sygic.aura.search.view.SearchBubble sygic:id="0x7f0e02c2" sygic:visibility="2" sygic:longClickable="true" style="0x7f0901c9" />
+                <com.sygic.aura.search.view.SearchBar sygic:id="0x7f0e02c3" sygic:layout_width="-1" sygic:layout_height="-1" sygic:imeOptions="10000002" style="0x7f090212" />
+            </LinearLayout>
+        </HorizontalScrollView>
+        <View sygic:layout_gravity="800003" sygic:background="0x7f020285" sygic:layout_width="20dp" sygic:layout_height="-1" />
+        <View sygic:layout_gravity="800005" sygic:background="0x7f020286" sygic:layout_width="20dp" sygic:layout_height="-1" />
+    </FrameLayout>
+    <com.sygic.aura.views.font_specials.SImageView sygic:textColor="0x7f0d0180" sygic:layout_gravity="10" sygic:id="0x7f0e02c4" sygic:background="0x7f02022c" sygic:padding="8dp" sygic:focusable="true" sygic:focusableInTouchMode="false" sygic:longClickable="true" sygic:layout_width="-2" sygic:layout_height="-1" sygic:scaleType="3" sygic:textSrc="0x7f050021" />
+    <View sygic:background="0x7f0d0002" sygic:layout_width="0x7f0800a1" sygic:layout_height="-1" sygic:layout_marginTop="12dp" sygic:layout_marginBottom="12dp" />
+    <com.sygic.aura.views.font_specials.SImageView sygic:layout_gravity="10" sygic:id="0x7f0e02c5" sygic:background="0x7f02022c" sygic:padding="8dp" sygic:focusable="true" sygic:focusableInTouchMode="false" sygic:layout_width="-2" sygic:layout_height="-1" sygic:textSrc="0x7f0500a9" />
+</com.sygic.aura.search.view.SearchFrame>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <com.sygic.aura.views.font_specials.STextView android:textSize="0x7f080066" android:textColor="0x7f0d018a" android:id="0x7f0e01bc" android:paddingLeft="0x7f080064" android:paddingTop="0x7f080065" android:layout_width="-2" android:layout_height="-2" />
+    <com.sygic.aura.views.font_specials.STextView android:textSize="0x7f080066" android:textColor="0x7f0d018a" android:id="0x7f0e01bd" android:paddingLeft="0x7f080064" android:paddingTop="0x7f080065" android:layout_width="-2" android:layout_height="-2" android:layout_toRightOf="0x7f0e01bc" />
+    <com.sygic.aura.views.font_specials.STextView android:textSize="0x7f080066" android:textColor="0x7f0d018a" android:id="0x7f0e01be" android:paddingLeft="0x7f080064" android:paddingBottom="0x7f080065" android:layout_width="-2" android:layout_height="-2" android:layout_alignParentBottom="true" />
+    <com.sygic.aura.views.font_specials.SImageView android:paddingRight="0x7f080064" android:layout_width="-2" android:layout_height="-2" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:textSrc="0x7f050018" />
+</merge>

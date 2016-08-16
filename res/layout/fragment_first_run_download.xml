@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ViewSwitcher sygic:id="0x7f0e0107" sygic:layout_width="-1" sygic:layout_height="-1">
+    <LinearLayout sygic:orientation="1" sygic:background="0x7f02020c" sygic:clickable="true" sygic:layout_width="-1" sygic:layout_height="-1">
+        <com.sygic.aura.views.font_specials.STextView sygic:id="0x7f0e0108" sygic:layout_width="-1" sygic:layout_height="0dp" sygic:layout_marginLeft="25dp" sygic:layout_marginRight="25dp" sygic:layout_weight="0.4" sygic:textId="0x7f0700ff" style="0x7f0900d4" />
+        <com.sygic.aura.views.font_specials.STextView sygic:textSize="18sp" sygic:textColor="0x7f0d00ca" sygic:gravity="31" sygic:id="@id/text" sygic:layout_width="-1" sygic:layout_height="-2" sygic:layout_marginLeft="25dp" sygic:layout_marginRight="25dp" sygic:layout_weight="0.15" sygic:textId="0x7f07010e" />
+        <LinearLayout sygic:orientation="1" sygic:layout_width="-1" sygic:layout_height="0dp" sygic:layout_weight="0.3">
+            <com.sygic.aura.views.font_specials.SEditText sygic:id="0x7f0e010a" sygic:layout_width="-1" sygic:layout_height="-2" sygic:layout_marginLeft="25dp" sygic:layout_marginRight="25dp" sygic:layout_marginBottom="10dp" sygic:singleLine="true" sygic:inputType="21" sygic:imeOptions="6" sygic:hintId="0x7f07010f" style="0x7f0900d2" />
+            <com.sygic.aura.views.font_specials.SButton sygic:id="0x7f0e010b" sygic:layout_width="-1" sygic:layout_height="-2" sygic:layout_marginLeft="25dp" sygic:layout_marginRight="25dp" sygic:textId="0x7f070101" style="0x7f0900d1" />
+        </LinearLayout>
+        <com.sygic.aura.views.font_specials.STextView sygic:id="0x7f0e010c" sygic:layout_width="-2" sygic:layout_height="-2" sygic:layout_marginBottom="16dp" sygic:textId="0x7f070106" style="0x7f0900d3" />
+    </LinearLayout>
+    <LinearLayout sygic:orientation="1" sygic:background="0x7f02020c" sygic:clickable="true" sygic:layout_width="-1" sygic:layout_height="-1">
+        <com.sygic.aura.views.font_specials.STextView sygic:textAppearance="?unknown_attr_ref: 1010040" sygic:textColor="0x7f0d00ca" sygic:gravity="51" sygic:padding="25dp" sygic:layout_width="-1" sygic:layout_height="-2" sygic:layout_weight="0.0" sygic:font="0x7f070395" sygic:textId="0x7f07011d" />
+        <RelativeLayout sygic:id="0x7f0e010d" sygic:layout_width="-1" sygic:layout_height="0dp" sygic:layout_weight="1.0">
+            <include layout="0x7f0300ac" />
+        </RelativeLayout>
+        <FrameLayout sygic:layout_width="-1" sygic:layout_height="52dp" sygic:layout_marginLeft="25dp" sygic:layout_marginRight="25dp" sygic:layout_weight="0.0">
+            <ProgressBar sygic:id="@id/progress" sygic:layout_width="-1" sygic:layout_height="-1" sygic:progressDrawable="0x7f020276" style="@*style/Widget.ProgressBar.Horizontal" />
+            <com.sygic.aura.views.font_specials.SButton sygic:enabled="false" sygic:id="0x7f0e010e" sygic:background="0x7f020289" sygic:layout_width="-1" sygic:layout_height="-1" sygic:textId="0x7f07010d" style="0x7f0900d1" />
+        </FrameLayout>
+        <com.sygic.aura.views.font_specials.STextView sygic:id="0x7f0e010f" sygic:visibility="1" sygic:layout_width="-2" sygic:layout_height="-2" sygic:layout_marginTop="16dp" sygic:layout_marginBottom="16dp" sygic:textId="0x7f070105" style="0x7f0900d3" />
+    </LinearLayout>
+</ViewSwitcher>

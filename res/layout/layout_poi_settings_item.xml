@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout sygic:gravity="10" sygic:orientation="0" sygic:paddingLeft="10dp" sygic:paddingRight="10dp" sygic:descendantFocusability="2" sygic:layout_width="-1" sygic:layout_height="0x7f0800c6">
+    <com.sygic.aura.views.font_specials.STextView sygic:textAppearance="?unknown_attr_ref: 1010041" sygic:textColor="0x7f0d01a8" sygic:gravity="10" sygic:id="@id/title" sygic:layout_width="-2" sygic:layout_height="-2" sygic:text="Group_1" sygic:layout_centerVertical="true" sygic:font="0x7f070392" />
+    <CheckBox sygic:id="0x7f0e020f" sygic:paddingTop="10dp" sygic:paddingBottom="10dp" sygic:layout_width="-2" sygic:layout_height="?unknown_attr_ref: 101004d" sygic:checked="false" sygic:layout_alignParentRight="true" />
+</RelativeLayout>

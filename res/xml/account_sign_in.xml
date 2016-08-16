@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen>
+    <com.sygic.aura.settings.preferences.FacebookPreference sygic:title="0x7f070076" sygic:dependency="0x7f070066" />
+    <com.sygic.aura.settings.preferences.GooglePreference sygic:title="0x7f070077" sygic:dependency="0x7f070066" />
+    <com.sygic.aura.settings.preferences.CoreTitlePreference sygic:enabled="false" sygic:layout="0x7f0300f0" sygic:title="0x7f07007a" />
+    <com.sygic.aura.settings.preferences.LoginDetailsPreference sygic:key="0x7f070067" sygic:dependency="0x7f070066" />
+    <com.sygic.aura.settings.preferences.ForgotPasswordPreference sygic:title="0x7f070072" sygic:dependency="0x7f070066" sygic:preferences="0x7f050002" />
+    <com.sygic.aura.settings.preferences.SygicPreference sygic:title="0x7f070078" sygic:dependency="0x7f070066" />
+    <com.sygic.aura.settings.preferences.NewAccountPreference sygic:title="0x7f070070" sygic:dependency="0x7f070066" sygic:preferences="0x7f050001" />
+    <com.sygic.aura.settings.preferences.DependencyStatePreference sygic:key="0x7f070066" sygic:defaultValue="true" />
+</PreferenceScreen>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sygic.aura.dashboard.navigationDrawer.NavigationDrawer sygic:id="0x7f0e0243" sygic:layout_width="-1" sygic:layout_height="-1">
+    <RelativeLayout sygic:id="0x7f0e0244" sygic:paddingLeft="0x7f080061" sygic:paddingRight="0x7f080061" sygic:layout_width="-1" sygic:layout_height="-1">
+        <com.sygic.aura.views.WhiteSurfaceView sygic:id="@id/surface" sygic:background="0x106000d" sygic:scrollbars="0" sygic:layout_width="-1" sygic:layout_height="-1" sygic:isScrollContainer="false" sygic:overScrollMode="2" />
+        <View sygic:clickable="true" sygic:layout_width="-1" sygic:layout_height="15dp" />
+        <com.sygic.aura.views.font_specials.SToolbar sygic:id="0x7f0e0122" style="0x7f090001">
+            <LinearLayout sygic:gravity="10" sygic:layout_gravity="10" sygic:orientation="0" sygic:id="0x7f0e021f" sygic:background="?unknown_attr_ref: 7f01014c" sygic:focusable="true" sygic:layout_width="-1" sygic:layout_height="-1">
+                <View sygic:id="0x7f0e0245" sygic:visibility="2" sygic:layout_marginRight="12dp" sygic:layout_marginEnd="12dp" style="0x7f0901db" />
+                <com.sygic.aura.views.font_specials.SImageView sygic:id="0x7f0e0246" sygic:layout_width="-2" sygic:layout_height="-1" sygic:layout_marginRight="6dp" sygic:layout_marginEnd="6dp" sygic:inCarScale="true" sygic:textSrc="0x7f0500a4" />
+                <com.sygic.aura.views.font_specials.STextView sygic:textSize="0x7f080122" sygic:textColorHint="0x7f0d012d" sygic:ellipsize="3" sygic:gravity="10" sygic:id="0x7f0e0216" sygic:layout_width="-2" sygic:layout_height="-1" sygic:lines="1" sygic:layout_weight="1.0" sygic:font="0x7f070395" sygic:inCarScale="true" sygic:textId="0x7f0701dd" />
+                <View sygic:id="0x7f0e0247" sygic:visibility="2" sygic:layout_marginLeft="12dp" sygic:layout_marginStart="12dp" style="0x7f0901db" />
+            </LinearLayout>
+        </com.sygic.aura.views.font_specials.SToolbar>
+        <FrameLayout sygic:id="0x7f0e0248" sygic:layout_width="-1" sygic:layout_height="-1" sygic:elevation="0x7f080150" />
+    </RelativeLayout>
+    <FrameLayout sygic:layout_gravity="800003" sygic:id="0x7f0e0249" sygic:background="0x7f0d00a3" sygic:layout_width="0x7f0800a6" sygic:layout_height="-1" sygic:elevation="0x7f0800a5" />
+</com.sygic.aura.dashboard.navigationDrawer.NavigationDrawer>

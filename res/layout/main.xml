@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sygic.aura.views.SygicLayout android:layout_width="-1" android:layout_height="-1">
+    <com.sygic.aura.views.WhiteSurfaceView android:id="@id/surface" android:layout_width="-2" android:layout_height="-2" />
+</com.sygic.aura.views.SygicLayout>

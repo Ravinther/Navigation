@@ -1,0 +1,3 @@
+Res/skin/application_min.skin
+Res/skin/application_min.dat
+Android/additional/resources.xml

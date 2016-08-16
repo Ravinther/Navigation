@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sygic.aura.settings.view.CheckableListItem android:gravity="10" android:orientation="0" android:background="0x7f02022d" android:paddingLeft="16dp" android:paddingRight="16dp" android:layout_width="-1" android:layout_height="0x7f0800c2">
+    <ImageView android:id="0x7f0e0238" android:layout_width="0x7f08012b" android:layout_height="-2" android:layout_marginRight="32dp" android:layout_marginEnd="32dp" />
+    <LinearLayout android:orientation="1" android:layout_width="0dp" android:layout_height="-2" android:layout_weight="1.0">
+        <com.sygic.aura.views.font_specials.STextView android:id="@id/title" android:layout_width="-2" android:layout_height="-2" style="0x7f0900db" />
+        <com.sygic.aura.views.font_specials.STextView android:id="0x7f0e0239" android:layout_width="-2" android:layout_height="-2" style="0x7f0900d7" />
+    </LinearLayout>
+    <ImageView android:id="0x7f0e0220" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="12dp" />
+</com.sygic.aura.settings.view.CheckableListItem>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_gravity="30" android:id="0x7f0e01fd" android:paddingTop="44dp" android:layout_width="-2" android:layout_height="-2">
+    <com.sygic.aura.poi.poiOnRoute.view.PoiOnRouteView android:orientation="1" android:id="0x7f0e01fe" android:background="0x7f0d003c" android:layout_width="-1" android:layout_height="-2">
+        <include android:visibility="2" layout="0x7f0300d6" />
+        <include android:visibility="2" layout="0x7f0300d6" />
+        <include android:visibility="2" layout="0x7f0300d6" />
+        <include android:visibility="2" layout="0x7f0300d6" />
+    </com.sygic.aura.poi.poiOnRoute.view.PoiOnRouteView>
+</FrameLayout>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout sygic:background="0x7f02020c" sygic:clickable="true" sygic:layout_width="-1" sygic:layout_height="-1">
+    <LinearLayout sygic:layout_gravity="11" sygic:orientation="1" sygic:layout_width="-1" sygic:layout_height="-2" sygic:layout_margin="40dp"
+        <LinearLayout sygic:orientation="0" sygic:id="0x7f0e0104" sygic:background="0x7f02028a" sygic:padding="15dp" sygic:clickable="true" sygic:layout_width="-1" sygic:layout_height="80dp" sygic:layout_marginBottom="15dp">
+            <com.sygic.aura.views.font_specials.SImageView sygic:layout_width="-2" sygic:layout_height="-1" sygic:layout_marginRight="20dp" sygic:textSrc="0x7f050055" />
+            <com.sygic.aura.views.font_specials.STextView sygic:textAppearance="?unknown_attr_ref: 1010041" sygic:textColor="0x7f0d00ca" sygic:gravity="11" sygic:layout_width="-2" sygic:layout_height="-1" sygic:font="0x7f070395" sygic:textId="0x7f070116" />
+        </LinearLayout>
+        <LinearLayout sygic:orientation="0" sygic:id="0x7f0e0105" sygic:background="0x7f02028a" sygic:padding="15dp" sygic:clickable="true" sygic:layout_width="-1" sygic:layout_height="80dp" sygic:layout_marginBottom="15dp">
+            <com.sygic.aura.views.font_specials.SImageView sygic:layout_width="-2" sygic:layout_height="-1" sygic:layout_marginRight="20dp" sygic:textSrc="0x7f05009d" />
+            <com.sygic.aura.views.font_specials.STextView sygic:textAppearance="?unknown_attr_ref: 1010041" sygic:textColor="0x7f0d00ca" sygic:gravity="11" sygic:layout_width="-2" sygic:layout_height="-1" sygic:font="0x7f070395" sygic:textId="0x7f07011a" />
+        </LinearLayout>
+        <LinearLayout sygic:orientation="0" sygic:id="0x7f0e0106" sygic:background="0x7f02028a" sygic:padding="15dp" sygic:visibility="2" sygic:clickable="true" sygic:layout_width="-1" sygic:layout_height="80dp" sygic:layout_marginBottom="15dp">
+            <com.sygic.aura.views.font_specials.SImageView sygic:layout_width="-2" sygic:layout_height="-1" sygic:layout_marginRight="20dp" sygic:textSrc="0x7f050058" />
+            <com.sygic.aura.views.font_specials.STextView sygic:textAppearance="?unknown_attr_ref: 1010041" sygic:textColor="0x106000b" sygic:gravity="11" sygic:layout_width="-2" sygic:layout_height="-1" sygic:font="0x7f070395" sygic:textId="0x7f0700c6" />
+        </LinearLayout>
+    </LinearLayout>
+</FrameLayout>

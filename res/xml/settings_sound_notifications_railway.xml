@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen>
+    <com.sygic.aura.settings.preferences.StyleableSwitchPreference sygic:title="0x7f07029a" sygic:key="0x7f07061a" />
+    <com.sygic.aura.settings.preferences.SPreferenceCategory sygic:layout="0x7f0300ef" sygic:title="0x7f070290">
+        <com.sygic.aura.settings.preferences.FragmentPreference sygic:title="0x7f0702a3" sygic:key="0x7f07061b" sygic:dependency="0x7f07061a" sygic:fragment_class="com.sygic.aura.settings.fragments.SoundSettingsFragment" sygic:fragment_data="eWarnNearRailSound" />
+        <com.sygic.aura.settings.preferences.ThreeSeekBarsPreference sygic:title="0x7f07029b" sygic:key="0x7f07061c" sygic:dependency="0x7f07061a" sygic:rangeMaxPrimary="5" />
+    </com.sygic.aura.settings.preferences.SPreferenceCategory>
+</PreferenceScreen>

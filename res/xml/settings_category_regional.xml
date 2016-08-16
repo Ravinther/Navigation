@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen>
+    <com.sygic.aura.settings.preferences.LanguageListPreference sygic:title="0x7f070273" sygic:key="0x7f070602" sygic:keySecondary="0x7f070603" sygic:fragment_class="com.sygic.aura.settings.fragments.LanguageSettingsFragment" sygic:fragment_data="0x7f070603" />
+    <com.sygic.aura.settings.preferences.SPreferenceCategory sygic:layout="0x7f0300ef" sygic:title="0x7f070222">
+        <com.sygic.aura.settings.preferences.SummaryListPreference sygic:entries="0x7f0c0023" sygic:title="0x7f070276" sygic:key="0x7f070605" sygic:defaultValue="1" sygic:entryValues="0x7f0c001b" />
+        <com.sygic.aura.settings.preferences.SummaryListPreference sygic:entries="0x7f0c0029" sygic:title="0x7f070280" sygic:key="0x7f070607" sygic:defaultValue="1" sygic:entryValues="0x7f0c001b" />
+        <com.sygic.aura.settings.preferences.SummaryListPreference sygic:entries="0x7f0c0022" sygic:title="0x7f070275" sygic:key="0x7f070604" sygic:defaultValue="1" sygic:entryValues="0x7f0c001b" />
+    </com.sygic.aura.settings.preferences.SPreferenceCategory>
+</PreferenceScreen>

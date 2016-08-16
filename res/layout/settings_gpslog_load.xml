@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sygic.aura.views.font_specials.SButton android:textAppearance="?unknown_attr_ref: 1010041" android:textColor="0x7f0d0123" android:gravity="13" android:id="@id/button" android:background="0x7f02022d" android:paddingLeft="16dp" android:paddingRight="16dp" android:layout_width="-1" android:layout_height="?unknown_attr_ref: 101004d" />

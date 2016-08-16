@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item android:state_enabled="false" android:drawable="0x7f0d00e4" />
+    <item android:drawable="0x7f0d0013" android:state_activated="true" />
+    <item>
+        <ripple android:color="0x7f0d0071">
+            <item android:drawable="0x7f0d011b" />
+        </ripple> />
+</selector>

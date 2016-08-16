@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen>
+    <com.sygic.aura.settings.preferences.StyleableSwitchPreference sygic:title="0x7f0702a4" sygic:key="0x7f070623" />
+    <com.sygic.aura.settings.preferences.SPreferenceCategory sygic:layout="0x7f0300ef" sygic:title="0x7f070290">
+        <com.sygic.aura.settings.preferences.FragmentPreference sygic:title="0x7f0702a3" sygic:key="0x7f070625" sygic:dependency="0x7f070623" sygic:fragment_class="com.sygic.aura.settings.fragments.SoundSettingsFragment" sygic:fragment_data="eSpeedCamWarnSound" />
+        <com.sygic.aura.settings.preferences.ThreeSeekBarsPreference sygic:title="0x7f0702a9" sygic:key="0x7f070628" sygic:dependency="0x7f070623" sygic:keySecondary="0x7f070629" sygic:titleSeekBarPrimary="0x7f0702af" sygic:titleSeekBarSecondary="0x7f0702b0" sygic:rangeMaxPrimary="10" sygic:rangeMaxSecondary="10" sygic:formaterTypePrimary="eDistance" />
+        <com.sygic.aura.settings.preferences.StyleableDialogPreference sygic:title="0x7f0702a7" sygic:key="0x7f070627" sygic:dialogTitle="0x7f0702a7" sygic:dialogMessage="0x7f0702a8" sygic:positiveButtonText="0x7f0700b4" sygic:negativeButtonText="0x7f0700aa" />
+    </com.sygic.aura.settings.preferences.SPreferenceCategory>
+</PreferenceScreen>

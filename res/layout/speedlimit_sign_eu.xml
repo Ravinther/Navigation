@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sygic.aura.route.view.SpeedLimitSignShape sygic:background="0x7f020297" sygic:layout_width="0x7f080142" sygic:layout_height="0x7f080140" sygic:layout_marginRight="6dp">
+    <com.sygic.aura.views.font_specials.STextView sygic:textSize="0x7f08013d" sygic:gravity="11" sygic:id="0x7f0e01a4" sygic:layout_width="-1" sygic:layout_height="-1" sygic:font="0x7f070395" />
+    <TextView sygic:textSize="0x7f08013c" sygic:textStyle="1" sygic:gravity="11" sygic:layout_gravity="35" sygic:id="0x7f0e029d" sygic:background="0x7f020299" sygic:layout_width="-2" sygic:layout_height="-2" sygic:text="0x7f0703e4" />
+</com.sygic.aura.route.view.SpeedLimitSignShape>

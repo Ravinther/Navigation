@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout sygic:orientation="0" sygic:id="0x7f0e00ee" sygic:visibility="2" sygic:layout_width="-2" sygic:layout_height="-2">
+    <com.sygic.aura.views.font_specials.SToggleButton sygic:id="0x7f0e00ef" sygic:layout_marginRight="2dp" sygic:textSrcOn="0x7f05005c" sygic:textSrcOff="0x7f05005d" style="0x7f0900de" />
+    <com.sygic.aura.views.font_specials.SButton sygic:textSize="20sp" sygic:textColor="0x7f0d018a" sygic:id="0x7f0e00f0" sygic:layout_marginRight="2dp" sygic:text="1x" sygic:font="0x7f070393" style="0x7f0900de" />
+</LinearLayout>

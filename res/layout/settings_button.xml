@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="-1" android:layout_height="-1">
+    <Button android:textColor="0x7f0d01a8" android:id="@id/button" android:background="0x1080004" android:layout_width="-1" android:layout_height="-1" android:layout_marginLeft="10dp" android:layout_marginTop="15dp" android:layout_marginRight="10dp" android:layout_marginBottom="15dp" />
+</FrameLayout>

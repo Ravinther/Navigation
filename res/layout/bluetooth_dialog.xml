@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView sygic:layout_width="-1" sygic:layout_height="-1">
+    <LinearLayout sygic:orientation="1" sygic:padding="10dp" sygic:layout_width="-1" sygic:layout_height="-2">
+        <RadioGroup sygic:id="0x7f0e00bd" sygic:layout_width="-1" sygic:layout_height="-2">
+            <RadioButton sygic:id="0x7f0e00be" sygic:layout_width="-1" sygic:layout_height="-2" />
+            <RadioButton sygic:id="0x7f0e00bf" sygic:layout_width="-1" sygic:layout_height="-2" />
+            <RadioButton sygic:id="0x7f0e00c0" sygic:layout_width="-1" sygic:layout_height="-2" sygic:checked="true" />
+        </RadioGroup>
+        <com.sygic.aura.views.font_specials.STextView sygic:id="0x7f0e00c1" sygic:paddingLeft="8dp" sygic:paddingRight="8dp" sygic:layout_width="-2" sygic:layout_height="-2" sygic:layout_marginTop="16dp" sygic:textId="0x7f070293" />
+        <LinearLayout sygic:gravity="10" sygic:orientation="0" sygic:layout_width="-1" sygic:layout_height="-2">
+            <SeekBar sygic:id="0x7f0e00c2" sygic:paddingLeft="8dp" sygic:paddingRight="8dp" sygic:layout_width="0dp" sygic:layout_height="-2" sygic:layout_weight="1.0" />
+            <TextView sygic:id="0x7f0e00c3" sygic:padding="8dp" sygic:layout_width="-2" sygic:layout_height="-2" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

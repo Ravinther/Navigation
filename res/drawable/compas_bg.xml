@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item android:state_focused="true">
+        <shape android:shape="1">
+            <solid android:color="0x7f0d0013" />
+            <stroke android:width="2dp" android:color="0x7f0d0014" />
+            <size android:height="0x7f080086" android:width="0x7f080087" />
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="1">
+            <solid android:color="0x7f0d009e" />
+            <size android:height="0x7f080086" android:width="0x7f080087" />
+        </shape>
+    </item>
+</selector>

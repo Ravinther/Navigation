@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen>
+    <com.sygic.aura.settings.preferences.TextInfo android:layout_width="-1" android:layout_height="-1" />
+</PreferenceScreen>

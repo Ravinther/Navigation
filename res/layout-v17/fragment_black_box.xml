@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout sygic:layout_width="-1" sygic:layout_height="-1">
+    <SurfaceView sygic:id="0x7f0e00e8" sygic:clickable="true" sygic:layout_width="1px" sygic:layout_height="1px" sygic:layout_alignParentRight="true" sygic:layout_alignParentBottom="true" sygic:layout_alignParentEnd="true" />
+    <ImageView sygic:id="0x7f0e00e9" sygic:visibility="2" sygic:layout_width="0x7f080069" sygic:layout_height="-2" sygic:layout_marginBottom="0x7f080067" sygic:src="0x7f02027b" sygic:layout_above="0x7f0e00ea" sygic:layout_alignLeft="0x7f0e00ea" sygic:layout_alignStart="0x7f0e00ea" />
+    <RelativeLayout sygic:id="0x7f0e00eb" sygic:background="0x7f0d001c" sygic:visibility="2" sygic:layout_width="-1" sygic:layout_height="0x7f080116" sygic:layout_alignParentBottom="true">
+        <include layout="0x7f030077" />
+    </RelativeLayout>
+    <com.sygic.aura.views.font_specials.SImageButton sygic:id="0x7f0e00ea" sygic:background="0x7f020288" sygic:visibility="2" sygic:layout_marginLeft="0x7f08006a" sygic:layout_marginBottom="0x7f08006a" sygic:layout_above="0x7f0e00eb" sygic:layout_alignParentLeft="true" sygic:layout_marginStart="0x7f0800e5" sygic:layout_alignParentStart="true" sygic:textSrc="0x7f05001b" style="0x7f0900de" />
+    <com.sygic.aura.views.font_specials.SImageButton sygic:id="0x7f0e00ec" sygic:visibility="2" sygic:layout_marginRight="0x7f08006a" sygic:layout_marginBottom="0x7f08006a" sygic:layout_above="0x7f0e00eb" sygic:layout_alignParentRight="true" sygic:layout_marginEnd="0x7f0800e5" sygic:layout_alignParentEnd="true" sygic:textSrc="0x7f050019" style="0x7f0900de" />
+    <com.sygic.aura.views.font_specials.SImageButton sygic:id="0x7f0e00ed" sygic:visibility="2" sygic:layout_marginTop="0x7f08006a" sygic:layout_marginRight="0x7f08006a" sygic:layout_alignParentRight="true" sygic:layout_marginEnd="0x7f08006a" sygic:layout_alignParentEnd="true" sygic:textSrc="0x7f05001c" style="0x7f0900de" />
+</RelativeLayout>

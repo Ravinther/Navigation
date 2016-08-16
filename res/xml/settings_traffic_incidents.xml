@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen>
+    <com.sygic.aura.settings.preferences.StyleableSwitchPreference android:title="0x7f07024a" android:key="0x7f07045e" />
+    <com.sygic.aura.settings.preferences.StyleableSwitchPreference android:title="0x7f070249" android:key="0x7f07045f" android:dependency="0x7f07045e" />
+</PreferenceScreen>

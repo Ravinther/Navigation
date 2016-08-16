@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+    <include android:id="0x7f0e023a" layout="0x7f0300ef" />
+    <include android:id="0x7f0e023b" layout="0x7f0300b7" />
+    <include layout="0x7f03007c" />
+    <include android:id="0x7f0e023c" layout="0x7f0300b7" />
+    <include layout="0x7f03007c" />
+    <include android:id="0x7f0e023d" layout="0x7f0300b7" />
+    <include layout="0x7f03007c" />
+</LinearLayout>

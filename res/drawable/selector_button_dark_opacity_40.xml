@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item android:state_pressed="true" android:drawable="0x7f02006e" />
+    <item android:state_focused="true" android:drawable="0x7f02006d" />
+    <item android:drawable="0x7f02006c" />
+</selector>

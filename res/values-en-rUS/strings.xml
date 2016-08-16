@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="additionalDownload.title">Downloading...</string>
+    <string name="button.cancel">Cancel</string>
+    <string name="button.quit">Exit</string>
+    <string name="button.retry">Try again</string>
+    <string name="button.settings">Settings</string>
+    <string name="message.aes.download.failed">Oops. There was an error while downloading resource files from Google Play.</string>
+    <string name="message.aes.unpack.failed">Oops. There was an error while processing the data downloaded from Google Play.</string>
+    <string name="message.gps.warning">Enable location services to determine your location.</string>
+    <string name="message.inifiles.missing" formatted="false">Important files for %app_name% are missing…</string>
+    <string name="message.minres.failed">Oops. There was an error while processing the data necessary to run this application.</string>
+    <string name="message.nolicense">This application is not licensed. Please purchase it from Android Market or enable your network connections and try again.</string>
+    <string name="message.notification.sygic" formatted="false">Tap here to show %app_name%</string>
+    <string name="message.processing">Please wait while processing the downloaded data.</string>
+    <string name="message.sdcard.missing">SD Card is missing. Please check…</string>
+    <string name="process_name">Sygic</string>
+    <string name="resources.download.info" formatted="false">Please give us a moment. Resources necessary to run %shortproduct% are being downloaded. Thank you.</string>
+    <string name="retention.discover">Discover great places to go with Sygic.</string>
+    <string name="retention.drive">Drive smarter everyday with Sygic.</string>
+    <string name="retention.open.app">Open app</string>
+    <string name="shop.error.notEnoughSpace" formatted="false">Not enough memory for data download. %size% MB is needed.</string>
+    <string name="title.gps.warning">GPS is not enabled</string>
+    <string name="title.processing">Processing…</string>
+    <string name="title.warning">Warning</string>
+</resources>

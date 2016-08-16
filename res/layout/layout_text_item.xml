@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sygic.aura.views.font_specials.STextView android:textSize="17sp" android:textColor="0x7f0d0166" android:gravity="11" android:id="@id/title" android:background="0x7f0d0124" android:paddingLeft="0x7f0800f2" android:paddingTop="28dp" android:paddingRight="0x7f0800f2" android:paddingBottom="28dp" android:clickable="false" android:layout_width="-1" android:layout_height="-2" />

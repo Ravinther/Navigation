@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout sygic:orientation="1" sygic:background="0x7f02022c" sygic:layout_width="88dp" sygic:layout_height="-1" sygic:layout_marginRight="16dp">
+    <ImageView sygic:id="@id/image" sygic:layout_width="-1" sygic:layout_height="88dp" />
+    <com.sygic.aura.views.font_specials.STextView sygic:textSize="15sp" sygic:textColor="0x7f0d012d" sygic:id="0x7f0e01ab" sygic:layout_width="-1" sygic:layout_height="-2" sygic:layout_marginTop="4dp" sygic:font="0x7f070395" />
+    <FrameLayout sygic:layout_width="-1" sygic:layout_height="15dp" sygic:layout_marginTop="2dp">
+        <ImageView sygic:layout_gravity="10" sygic:id="0x7f0e01b2" sygic:layout_width="-2" sygic:layout_height="-2" />
+    </FrameLayout>
+    <com.sygic.aura.views.font_specials.STextView sygic:textSize="13sp" sygic:textColor="0x7f0d005f" sygic:id="0x7f0e01b1" sygic:visibility="2" sygic:layout_width="-1" sygic:layout_height="-2" sygic:font="0x7f070395" />
+</LinearLayout>

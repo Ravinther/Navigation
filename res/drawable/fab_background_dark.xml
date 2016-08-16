@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item android:state_enabled="false">
+        <shape android:shape="1">
+            <solid android:color="0x7f0d00e4" />
+        </shape>
+    </item>
+    <item android:state_pressed="true">
+        <shape android:shape="1">
+            <solid android:color="0x7f0d00ee" />
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="1">
+            <solid android:color="0x7f0d011b" />
+        </shape>
+    </item>
+</selector>

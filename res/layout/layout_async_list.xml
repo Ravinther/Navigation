@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="-1" android:layout_height="-1">
+    <include android:id="@id/search_bar" android:visibility="2" layout="0x7f03009f" />
+    <include android:id="0x7f0e01b4" android:layout_width="-1" android:layout_height="-2" layout="0x7f0300ba" />
+    <com.sygic.aura.views.ButtonScrollListView android:id="0x7f0e01b5" android:persistentDrawingCache="3" android:layout_width="-1" android:layout_height="-1" android:listSelector="0x7f02022c" android:drawSelectorOnTop="true" android:divider="0x7f0d0001" android:dividerHeight="0x7f0800a0" android:layout_below="@id/search_bar" />
+    <com.sygic.aura.views.SmartProgressBar android:id="0x7f0e00e6" android:layout_width="-2" android:layout_height="-2" android:layout_centerInParent="true" />
+</RelativeLayout>

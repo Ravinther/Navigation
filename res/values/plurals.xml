@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="anui_online_poi_votesCount">
+        <item quantity="other">anui.online.poi.votesCount.others</item>
+        <item quantity="zero">anui.online.poi.votesCount.zero</item>
+        <item quantity="one">anui.online.poi.votesCount.one</item>
+        <item quantity="two">anui.online.poi.votesCount.two</item>
+        <item quantity="few">anui.online.poi.votesCount.few</item>
+        <item quantity="many">anui.online.poi.votesCount.many</item>
+    </plurals>
+    <plurals name="anui_routeOverview_routeInfoIncidents">
+        <item quantity="other">anui.routeOverview_routeInfoIncidents.other</item>
+        <item quantity="zero">anui.routeOverview_routeInfoIncidents.zero</item>
+        <item quantity="one">anui.routeOverview_routeInfoIncidents.one</item>
+        <item quantity="two">anui.routeOverview_routeInfoIncidents.two</item>
+        <item quantity="few">anui.routeOverview_routeInfoIncidents.few</item>
+        <item quantity="many">anui.routeOverview_routeInfoIncidents.many</item>
+    </plurals>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen>
+    <com.sygic.aura.settings.preferences.StyleableSwitchPreference android:title="0x7f0702b3" android:key="0x7f070631" />
+    <com.sygic.aura.settings.preferences.StyleableSwitchPreference android:title="0x7f0702b1" android:key="@string/settings_sound_bluetooth_hfp" />
+</PreferenceScreen>

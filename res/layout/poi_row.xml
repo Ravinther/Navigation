@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout sygic:gravity="10" sygic:orientation="0" sygic:paddingLeft="8dp" sygic:paddingRight="8dp" sygic:layout_width="-1" sygic:layout_height="0x7f0800c6">
+    <com.sygic.aura.views.font_specials.SImageView sygic:textSize="0x7f080123" sygic:id="0x7f0e0266" sygic:layout_width="0x7f080126" sygic:layout_height="-2" sygic:layout_marginRight="4dp" sygic:font="0x7f070391" sygic:textSrc="0x7f0500ab" />
+    <com.sygic.aura.views.font_specials.STextView sygic:id="0x7f0e0267" sygic:layout_width="0dp" sygic:layout_height="-2" sygic:layout_weight="1.0" style="0x7f0900dc" />
+    <com.sygic.aura.views.font_specials.STextView sygic:textSize="12sp" sygic:textColor="0x7f0d011d" sygic:layout_gravity="10" sygic:id="0x7f0e0268" sygic:visibility="2" sygic:layout_width="-2" sygic:layout_height="-2" sygic:layout_marginLeft="12dp" sygic:layout_marginRight="4dp" />
+</LinearLayout>

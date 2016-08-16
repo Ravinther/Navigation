@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:background="0x7f0d018a" android:layout_width="-1" android:layout_height="-2">
+    <Space android:id="0x7f0e00df" android:layout_width="-1" android:layout_height="-2" android:minHeight="0x7f080167" />
+    <include android:id="0x7f0e0217" android:layout_width="-1" android:layout_height="-2" layout="0x7f0300ba" />
+</LinearLayout>

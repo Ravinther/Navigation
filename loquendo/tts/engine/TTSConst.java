@@ -1,0 +1,44 @@
+package loquendo.tts.engine;
+
+public class TTSConst {
+    public static final String JNIVERSION = "7.20.0";
+    public static final int TTSANSI = 1;
+    public static final int TTSAUTODETECT = 10;
+    public static final int TTSBUFFER = 1;
+    public static final int TTSDEFAULT = 0;
+    public static final int TTSEVT_AUDIO = 13;
+    public static final int TTSEVT_AUDIOSTART = 0;
+    public static final int TTSEVT_BOOKMARK = 7;
+    public static final int TTSEVT_DATA = 4;
+    public static final int TTSEVT_ENDOFSPEECH = 1;
+    public static final int TTSEVT_ERROR = 16;
+    public static final int TTSEVT_FREESPACE = 11;
+    public static final int TTSEVT_JUMP = 17;
+    public static final int TTSEVT_LANGUAGECHANGE = 15;
+    public static final int TTSEVT_LANGUAGEPHONEME = 2;
+    public static final int TTSEVT_NOTSENT = 12;
+    public static final int TTSEVT_PARAGRAPH = 18;
+    public static final int TTSEVT_PAUSE = 9;
+    public static final int TTSEVT_PERSONACHANGE = 21;
+    public static final int TTSEVT_RESERVED = 50;
+    public static final int TTSEVT_RESERVED_1 = 51;
+    public static final int TTSEVT_RESERVED_2 = 52;
+    public static final int TTSEVT_RESUME = 10;
+    public static final int TTSEVT_SAYASCHANGE = 22;
+    public static final int TTSEVT_SENTENCE = 6;
+    public static final int TTSEVT_STYLECHANGE = 20;
+    public static final int TTSEVT_TAG = 8;
+    public static final int TTSEVT_TEXT = 5;
+    public static final int TTSEVT_TEXTENCODING = 19;
+    public static final int TTSEVT_VOICECHANGE = 14;
+    public static final int TTSEVT_VOICEPHONEME = 3;
+    public static final int TTSFILE = 2;
+    public static final int TTSISO = 2;
+    public static final int TTSMULTILINE = 1;
+    public static final int TTSPARAGRAPH = 2;
+    public static final int TTSSSML = 3;
+    public static final int TTSUNICODE = 3;
+    public static final int TTSUTF8 = 4;
+    public static final int TTSXML = 4;
+    public static final String VERSION = "LTTSComponentVersion=7.20.0";
+}

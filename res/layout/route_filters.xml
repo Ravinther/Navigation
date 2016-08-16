@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sygic.aura.route.view.RouteFilterLayout sygic:orientation="0" sygic:background="0x7f0d016a" sygic:layout_width="-1" sygic:layout_height="-1">
+    <LinearLayout sygic:id="0x7f0e0284" style="0x7f0901f0">
+        <com.sygic.aura.views.font_specials.SImageView sygic:textSrc="0x7f050050" style="0x7f0901f1" />
+        <com.sygic.aura.views.font_specials.STextView sygic:id="0x7f0e0285" style="0x7f090210" />
+        <com.sygic.aura.views.font_specials.SImageView sygic:id="0x7f0e0206" sygic:textSrc="0x7f05004f" style="0x7f0901f1" />
+    </LinearLayout>
+    <LinearLayout sygic:id="0x7f0e0286" style="0x7f0901f0">
+        <com.sygic.aura.views.font_specials.SImageView sygic:textSrc="0x7f05004d" style="0x7f0901f1" />
+        <com.sygic.aura.views.font_specials.STextView sygic:id="0x7f0e0287" style="0x7f090210" />
+        <com.sygic.aura.views.font_specials.SImageView sygic:id="0x7f0e020b" sygic:textSrc="0x7f05004f" style="0x7f0901f1" />
+    </LinearLayout>
+    <LinearLayout sygic:id="0x7f0e0288" style="0x7f0901f0">
+        <com.sygic.aura.views.font_specials.SImageView sygic:textSrc="0x7f05004e" style="0x7f0901f1" />
+        <com.sygic.aura.views.font_specials.STextView sygic:text="0x7f070412" style="0x7f090210" />
+    </LinearLayout>
+</com.sygic.aura.route.view.RouteFilterLayout>

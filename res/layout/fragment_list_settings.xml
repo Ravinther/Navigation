@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout sygic:orientation="1" sygic:background="0x7f0d0024" sygic:clickable="true" sygic:layout_width="-1" sygic:layout_height="-1" sygic:cacheColorHint="0x7f0d0024">
+    <include layout="0x7f0300b1" />
+    <ListView sygic:id="0x7f0e011d" sygic:layout_width="-1" sygic:layout_height="-2" />
+    <LinearLayout sygic:orientation="1" sygic:id="0x7f0e011e" sygic:visibility="2" sygic:layout_width="-1" sygic:layout_height="-2">
+        <com.sygic.aura.views.font_specials.SImageView sygic:gravity="11" sygic:id="0x7f0e011f" sygic:layout_width="-1" sygic:layout_height="-2" sygic:layout_marginBottom="32dp" />
+        <com.sygic.aura.views.font_specials.STextView sygic:textSize="18sp" sygic:textColor="0x7f0d005d" sygic:gravity="11" sygic:id="0x7f0e0120" sygic:paddingBottom="32dp" sygic:layout_width="-1" sygic:layout_height="-2" sygic:font="0x7f070392" />
+    </LinearLayout>
+</LinearLayout>

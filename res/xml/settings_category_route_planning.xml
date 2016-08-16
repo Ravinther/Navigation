@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen>
+    <com.sygic.aura.settings.preferences.StyleableSwitchPreference android:title="0x7f070289" android:key="0x7f07060f" />
+    <com.sygic.aura.settings.preferences.StyleableSwitchPreference android:title="0x7f07028a" android:key="0x7f070610" />
+    <com.sygic.aura.settings.preferences.StyleableSwitchPreference android:title="0x7f070288" android:key="0x7f07060e" />
+    <com.sygic.aura.settings.preferences.StyleableSwitchPreference android:title="0x7f070287" android:key="0x7f07060d" />
+    <com.sygic.aura.settings.preferences.SummaryListPreference android:entries="0x7f0c0027" android:title="0x7f07028b" android:key="0x7f07060c" android:defaultValue="1" android:entryValues="0x7f0c001b" />
+</PreferenceScreen>

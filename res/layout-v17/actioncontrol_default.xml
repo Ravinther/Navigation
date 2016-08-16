@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout app:layout_width="-1" app:layout_height="-1">
+    <View app:layout_gravity="50" app:background="0x7f020217" app:layout_width="-1" app:layout_height="186dp" />
+    <com.sygic.aura.views.ForegroundLinearLayout app:layout_gravity="50" app:orientation="0" app:id="0x7f0e00af" app:background="0x7f020068" app:layout_width="-1" app:layout_height="72dp" app:layout_marginLeft="0x7f080008" app:layout_marginRight="0x7f080008" app:layout_marginBottom="0x7f080007" app:foreground="?unknown_attr_ref: 7f01014b">
+        <com.sygic.aura.views.font_specials.SImageView app:textColor="@color/azure_radiance" app:layout_gravity="10" app:id="0x7f0e00b0" app:layout_width="64dp" app:layout_height="-2" app:textSrc="0x7f05000b" />
+        <com.sygic.aura.views.font_specials.STextView app:textSize="18sp" app:ellipsize="3" app:gravity="10" app:id="0x7f0e00b1" app:paddingRight="8dp" app:layout_width="0dp" app:layout_height="-1" app:maxLines="2" app:layout_weight="1.0" app:paddingEnd="8dp" app:font="0x7f070393" app:textId="0x7f070091" />
+        <FrameLayout app:gravity="10" app:id="0x7f0e00b2" app:background="0x7f02003c" app:padding="12dp" app:layout_width="64dp" app:layout_height="-1" app:foreground="?unknown_attr_ref: 7f01014b">
+            <com.sygic.aura.views.font_specials.SImageView app:layout_gravity="11" app:id="@id/btn_cancel" app:layout_width="-2" app:layout_height="-2" app:textSrc="0x7f050008" />
+            <com.sygic.aura.views.CircleProgressBar app:layout_gravity="11" app:id="0x7f0e00b4" app:layout_width="-2" app:layout_height="-2" app:progressbarColor="@color/azure_radiance" app:progressBarThickness="3dp" />
+        </FrameLayout>
+    </com.sygic.aura.views.ForegroundLinearLayout>
+</FrameLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout sygic:id="0x7f0e011a" sygic:layout_width="-1" sygic:layout_height="-1">
+    <com.sygic.aura.views.font_specials.STextView sygic:textColor="0x7f0d00cc" sygic:id="0x7f0e01ca" sygic:font="0x7f070391" style="0x7f0901e2" />
+    <com.sygic.aura.views.font_specials.STextView sygic:textColor="0x7f0d007f" sygic:id="0x7f0e01cb" sygic:font="0x7f070391" style="0x7f0901e2" />
+    <com.sygic.aura.views.font_specials.STextView sygic:textColor="0x7f0d00cc" sygic:id="0x7f0e01cc" sygic:font="0x7f070391" style="0x7f0901e2" />
+</FrameLayout>

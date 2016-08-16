@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_android_wear_notification_needs_update_text">%1$s exige uma atualização para o app Android Wear.</string>
+    <string name="common_android_wear_update_text">%1$s só funciona com uma atualização para o app Android Wear.</string>
+    <string name="common_android_wear_update_title">Atualizar o Android Wear</string>
+    <string name="common_google_play_services_api_unavailable_text">%1$s exige um ou mais Google Play Services que não estão disponíveis no momento. Entre em contato com o desenvolvedor para receber assistência.</string>
+    <string name="common_google_play_services_enable_button">Ativar o Google Play Services</string>
+    <string name="common_google_play_services_enable_text">%1$s só funciona com o Google Play Services ativado.</string>
+    <string name="common_google_play_services_enable_title">Ative o Google Play Services</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Solicitado por %1$s</string>
+    <string name="common_google_play_services_install_button">Instalar o Google Play Services</string>
+    <string name="common_google_play_services_install_text_phone">%1$s não funciona sem o Google Play Services, o qual não está instalado no seu smartphone.</string>
+    <string name="common_google_play_services_install_text_tablet">%1$s não funciona sem o Google Play Services, o qual não está instalado no seu tablet.</string>
+    <string name="common_google_play_services_install_title">Instale o Google Play Services</string>
+    <string name="common_google_play_services_invalid_account_text">A conta especificada não existe no dispositivo. Escolha outra conta.</string>
+    <string name="common_google_play_services_invalid_account_title">Conta inválida</string>
+    <string name="common_google_play_services_needs_enabling_title">Um app requer a ativação do Google Play Services.</string>
+    <string name="common_google_play_services_network_error_text">É necessária uma conexão de dados para conectar ao Google Play Services.</string>
+    <string name="common_google_play_services_network_error_title">Erro na rede</string>
+    <string name="common_google_play_services_notification_needs_update_title">Um app requer a atualização do Google Play Services.</string>
+    <string name="common_google_play_services_notification_ticker">Erro do Google Play Services</string>
+    <string name="common_google_play_services_sign_in_failed_text">Erro ao fazer login na conta especificada. Escolha outra conta.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Falha de login</string>
+    <string name="common_google_play_services_unknown_issue">Problema desconhecido com o Google Play Services.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s depende do Google Play Services, o qual não é compatível com seu dispositivo. Entre em contato com o fabricante para receber assistência.</string>
+    <string name="common_google_play_services_unsupported_title">Play Services</string>
+    <string name="common_google_play_services_update_button">Atualizar</string>
+    <string name="common_google_play_services_update_text">%1$s só funciona com uma versão atualizada do Google Play Services.</string>
+    <string name="common_google_play_services_update_title">Atualize o Google Play Services</string>
+    <string name="common_google_play_services_updating_text">%1$s não funciona sem o Google Play Services, o qual está sendo atualizado no momento.</string>
+    <string name="common_google_play_services_updating_title">Google Play Services em atualização</string>
+    <string name="common_open_on_phone">Abrir no smartphone</string>
+    <string name="common_signin_button_text">Login</string>
+    <string name="common_signin_button_text_long">Fazer login com o Google</string>
+    <string name="additionalDownload.title">Fazendo download...</string>
+    <string name="button.cancel">Cancelar</string>
+    <string name="button.quit">Sair</string>
+    <string name="button.retry">Tentar Novamente</string>
+    <string name="button.settings">Configurações</string>
+    <string name="message.aes.download.failed">Lamentamos. Houve um erro ao baixar os arquivos de recursos do Google Play.</string>
+    <string name="message.aes.unpack.failed">Lamentamos. Houve um erro no processamento dos dados baixados do Google Play.</string>
+    <string name="message.gps.warning">Ative os serviços de localização para determinar sua localização.</string>
+    <string name="message.inifiles.missing" formatted="false">Arquivos importantes para a %app_name% em falta…</string>
+    <string name="message.minres.failed">Lamentamos. Houve um erro no processamento dos dados necessários para executar este aplicativo.</string>
+    <string name="message.nolicense">O aplicativo não está licenciado. Adquira-o a partir do Android Market ou ative as ligações de rede e tente novamente.</string>
+    <string name="message.notification.sygic" formatted="false">Toque aqui para exibir %app_name%</string>
+    <string name="message.pleasewait">Aguarde</string>
+    <string name="message.processing">Aguarde o processamento dos dados baixados.</string>
+    <string name="message.sdcard.missing">Cartão SD em falta. Verifique…</string>
+    <string name="process_name">Sygic</string>
+    <string name="resources.download.info">Dê-nos um momento. Os recursos necessários para executar esta aplicação estão a ser transferidos. Obrigado.</string>
+    <string name="retention.discover">Descubra ótimos lugares para ir com o Sygic.</string>
+    <string name="retention.drive">Dirija com mais inteligência todos os dias com o Sygic.</string>
+    <string name="retention.open.app">Abrir aplicativo</string>
+    <string name="shop.error.notEnoughSpace" formatted="false">Não existe memória suficiente para o download de dados. São necessários %size% MB.</string>
+    <string name="title.gps.warning">GPS não ativado</string>
+    <string name="title.processing">Processando...</string>
+    <string name="title.warning">Aviso</string>
+</resources>

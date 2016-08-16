@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item>
+        <selector>
+            <item android:drawable="0x7f0d0013" android:state_activated="true" />
+            <item android:drawable="0x106000d" />
+        </selector> />
+    <item>
+        <ripple android:color="0x7f0d0084">
+            <item android:id="0x102002e">
+                <color android:color="0x106000b" />
+            </item>
+        </ripple>
+    </item>
+</layer-list>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="RtlOverlay.DialogWindowTitle.AppCompat" parent="@style/Base.DialogWindowTitle.AppCompat">
+        <item name="android:textAlignment">viewStart</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.ActionBar.TitleItem" parent="@android:style/Widget">
+        <item name="android:layout_gravity">start|center</item>
+        <item name="android:paddingEnd">8.0dip</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.ActionButton.Overflow" parent="@style/Base.Widget.AppCompat.ActionButton.Overflow">
+        <item name="android:paddingStart">@dimen/abc_action_bar_overflow_padding_start_material</item>
+        <item name="android:paddingEnd">@dimen/abc_action_bar_overflow_padding_end_material</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.DialogTitle.Icon" parent="@android:style/Widget">
+        <item name="android:layout_marginEnd">8.0dip</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.PopupMenuItem" parent="@android:style/Widget">
+        <item name="android:paddingEnd">16.0dip</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.PopupMenuItem.InternalGroup" parent="@android:style/Widget">
+        <item name="android:layout_marginStart">16.0dip</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.PopupMenuItem.Text" parent="@android:style/Widget">
+        <item name="android:textAlignment">viewStart</item>
+        <item name="android:layout_alignParentStart">true</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.Search.DropDown" parent="@android:style/Widget">
+        <item name="android:paddingStart">@dimen/abc_dropdownitem_text_padding_left</item>
+        <item name="android:paddingEnd">4.0dip</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.Search.DropDown.Icon1" parent="@android:style/Widget">
+        <item name="android:layout_alignParentStart">true</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.Search.DropDown.Icon2" parent="@android:style/Widget">
+        <item name="android:layout_toStartOf">@id/edit_query</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.Search.DropDown.Query" parent="@android:style/Widget">
+        <item name="android:layout_alignParentEnd">true</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.Search.DropDown.Text" parent="@style/Base.Widget.AppCompat.DropDownItem.Spinner">
+        <item name="android:layout_toStartOf">@android:id/icon2</item>
+        <item name="android:layout_toEndOf">@android:id/icon1</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.SearchView.MagIcon" parent="@android:style/Widget">
+        <item name="android:layout_marginStart">@dimen/abc_dropdownitem_text_padding_left</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.Toolbar.Button.Navigation" parent="@style/Base.Widget.AppCompat.Toolbar.Button.Navigation">
+        <item name="android:paddingStart">@dimen/abc_action_bar_navigation_padding_start_material</item>
+    </style>
+    <style name="PoiDetailContactLabel">
+        <item name="android:textSize">@dimen/poiDetailTextSize</item>
+        <item name="android:textColor">@color/textPoiDetailImg</item>
+        <item name="android:layout_gravity">start|center</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">72.0dip</item>
+        <item name="android:layout_marginRight">16.0dip</item>
+        <item name="android:layout_marginStart">72.0dip</item>
+        <item name="android:layout_marginEnd">16.0dip</item>
+        <item name="font">@string/font.open_sans.semi_bold</item>
+    </style>
+    <style name="PoiDetailIcon.Contact" parent="@style/PoiDetailIcon">
+        <item name="android:textSize">@dimen/poiDetailIconsSize</item>
+        <item name="android:textColor">@color/textPoiDetailImg2</item>
+        <item name="android:layout_marginLeft">16.0dip</item>
+        <item name="android:layout_marginStart">16.0dip</item>
+    </style>
+    <style name="PoiDetailIcon.PoiDetailSectionActionImage" parent="@style/PoiDetailIcon">
+        <item name="android:textSize">@dimen/poiDetailIconsCarSize</item>
+        <item name="android:textColor">@color/poi_detail_section_text</item>
+        <item name="android:layout_gravity">start|center</item>
+        <item name="android:layout_marginLeft">16.0dip</item>
+        <item name="android:layout_marginStart">16.0dip</item>
+    </style>
+    <style name="PoiDetailSectionActionImage">
+        <item name="android:textSize">28.0dip</item>
+        <item name="android:textColor">@color/azure_radiance</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">12.0dip</item>
+        <item name="android:layout_marginStart">12.0dip</item>
+        <item name="font">@string/font.icons</item>
+    </style>
+    <style name="PoiDetailSectionActionLabel">
+        <item name="android:textSize">@dimen/poiDetailActionsLabelSize</item>
+        <item name="android:textColor">@color/poi_detail_section_text</item>
+        <item name="android:paddingTop">20.0dip</item>
+        <item name="android:paddingBottom">20.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">72.0dip</item>
+        <item name="android:layout_marginRight">16.0dip</item>
+        <item name="android:layout_marginStart">72.0dip</item>
+        <item name="android:layout_marginEnd">16.0dip</item>
+        <item name="font">@string/font.open_sans.semi_bold</item>
+    </style>
+    <style name="SearchBar">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@color/listItemTitleLight</item>
+        <item name="android:textColorHint">@color/black_a25</item>
+        <item name="android:background">@null</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">38.0dip</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:inputType">textPersonName</item>
+        <item name="android:imeOptions">actionGo</item>
+        <item name="android:layout_marginStart">38.0dip</item>
+        <item name="font">@string/font.open_sans.semi_bold</item>
+        <item name="hintId">@string/anui.search.hint</item>
+    </style>
+    <style name="TripDetailGraphCurrentValue">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">@color/screamin_green</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginRight">16.0dip</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_marginEnd">16.0dip</item>
+        <item name="android:layout_alignParentEnd">true</item>
+    </style>
+    <style name="TripDetailLabel.Line" parent="@style/TripDetailLabel">
+        <item name="android:padding">16.0dip</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:layout_alignParentStart">true</item>
+    </style>
+    <style name="TripDetailValue.Line" parent="@style/TripDetailValue">
+        <item name="android:padding">16.0dip</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_alignParentEnd">true</item>
+    </style>
+    <style name="route_overview_filters_image">
+        <item name="android:paddingTop">8.0dip</item>
+        <item name="android:paddingBottom">8.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">4.0dip</item>
+        <item name="android:layout_marginRight">4.0dip</item>
+        <item name="android:scaleType">fitCenter</item>
+        <item name="android:layout_marginEnd">4.0dip</item>
+    </style>
+</resources>

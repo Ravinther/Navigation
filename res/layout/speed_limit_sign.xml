@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ViewSwitcher android:orientation="0" android:id="0x7f0e0297" android:visibility="2" android:layout_width="-2" android:layout_height="-2">
+    <include android:id="0x7f0e0298" layout="0x7f0300f7" />
+    <include android:id="0x7f0e0299" layout="0x7f0300f8" />
+</ViewSwitcher>

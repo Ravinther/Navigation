@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen>
+    <Preference sygic:layout="0x7f0300dd" sygic:title="Create a new account by entering a valid mail address and a password" />
+    <com.sygic.aura.settings.preferences.LoginDetailsPreference sygic:key="0x7f070067" sygic:load_name="true" />
+    <com.sygic.aura.settings.preferences.CreateNewAccountPreference sygic:title="0x7f070070" />
+</PreferenceScreen>

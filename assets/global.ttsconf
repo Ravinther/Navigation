@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<config>
+  <sessions>
+    <session name="hardcoded">
+      <text encoding="utf-8" />
+      <binder defaultmode="automotive" defaultvoice="" defaultlanguage="" defaultstyle="" />
+      <diagnostics>
+		<log level="enabled" filename="/mnt/sdcard/LoquendoTTS/log.txt" encoding="utf8"/>
+		<trace level="disabled" filename="/mnt/sdcard/LoquendoTTS/trace.txt" encoding="utf8"/>
+	  </diagnostics>
+      <system>
+        <license filename="LoquendoTTSLicense.txt" failonerror="false" />
+      </system>
+    </session>
+  </sessions>
+</config>

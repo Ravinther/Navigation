@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:key="account">
+    <com.sygic.aura.settings.preferences.UserPreference android:layout="0x7f03001b" />
+    <com.sygic.aura.settings.preferences.SPreferenceCategory android:layout="0x7f0300ef" android:title="0x7f07007c">
+        <com.sygic.aura.settings.preferences.StyleableSwitchPreference android:title="0x7f07006e" android:key="0x7f070069" />
+        <com.sygic.aura.settings.preferences.StyleableSwitchPreference android:title="0x7f070074" android:key="0x7f070068" />
+        <com.sygic.aura.settings.preferences.ClearLoginDataPreference android:title="0x7f07006f" />
+    </com.sygic.aura.settings.preferences.SPreferenceCategory>
+</PreferenceScreen>

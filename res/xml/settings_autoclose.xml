@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen>
+    <com.sygic.aura.settings.preferences.StyleableSwitchPreference sygic:title="0x7f070225" sygic:key="0x7f07044d" />
+</PreferenceScreen>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu>
+    <item compat:enabled="false" compat:id="0x7f0e02f2" compat:title="0x7f0701b1" compat:showAsAction="6" />
+    <group compat:id="0x7f0e02f3">
+        <item compat:id="0x7f0e02f4" compat:title="0x7f0701d6" compat:showAsAction="0" />
+    </group>
+</menu>

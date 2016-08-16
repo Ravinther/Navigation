@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout sygic:layout_width="-1" sygic:layout_height="-1">
+    <include sygic:id="0x7f0e00e4" sygic:visibility="2" layout="0x7f03009f" />
+    <com.mobeta.android.dslv.DragSortListView sygic:scrollbarStyle="2000000" sygic:id="0x102000a" sygic:background="0x7f0d018a" sygic:layout_width="-1" sygic:layout_height="-1" sygic:listSelector="0x7f0d0177" sygic:divider="0x7f0d0001" sygic:dividerHeight="0x7f0800a0" sygic:layout_below="0x7f0e00e4" sygic:float_background_res="0x7f0200c1" sygic:drag_enabled="false" sygic:drag_handle_id="0x7f0e00e3" />
+    <com.sygic.aura.views.font_specials.STextView sygic:textSize="17sp" sygic:textColor="0x7f0d005d" sygic:id="0x7f0e00e5" sygic:visibility="2" sygic:layout_width="-2" sygic:layout_height="-2" sygic:layout_marginTop="64dp" sygic:layout_below="0x7f0e00e4" sygic:layout_centerHorizontal="true" sygic:font="0x7f070395" sygic:textId="0x7f0700ec" />
+    <com.sygic.aura.views.SmartProgressBar sygic:id="0x7f0e00e6" sygic:layout_width="-2" sygic:layout_height="-2" sygic:layout_centerInParent="true" />
+</RelativeLayout>

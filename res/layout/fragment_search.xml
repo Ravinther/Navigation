@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+    <com.sygic.aura.views.font_specials.SToolbar android:id="0x7f0e0122" style="0x7f090168" />
+    <com.sygic.aura.search.view.RevertOrderRelativeLayout android:id="0x7f0e0162" android:layout_width="-1" android:layout_height="-1">
+        <com.sygic.aura.search.view.SearchResultsListView android:scrollbarStyle="2000000" android:id="0x7f0e0163" android:background="0x7f0d018a" android:visibility="2" android:clickable="true" android:layout_width="-1" android:layout_height="-1" android:listSelector="0x7f02022c" android:drawSelectorOnTop="true" android:divider="0x7f0d0001" android:dividerHeight="0x7f0800a0" android:overScrollMode="0" />
+        <com.sygic.aura.search.view.WaypointsListView android:scrollbarStyle="2000000" android:id="0x7f0e0164" android:background="0x7f0d00ef" android:clickable="true" android:longClickable="true" android:descendantFocusability="1" android:layout_width="-1" android:layout_height="-2" android:layout_alignParentTop="true" android:overScrollMode="0" />
+        <View android:id="0x7f0e0165" android:focusable="true" android:focusableInTouchMode="true" android:nextFocusDown="0x7f0e0164" android:layout_width="-1" android:layout_height="1dp" />
+    </com.sygic.aura.search.view.RevertOrderRelativeLayout>
+</LinearLayout>

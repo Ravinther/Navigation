@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2">
+    <com.sygic.aura.views.font_specials.STextView android:id="@id/title" android:textAllCaps="true" style="0x7f09010b" />
+    <FrameLayout android:id="0x7f0e01d6" android:layout_width="-1" android:layout_height="-2" android:foreground="0x7f02022c">
+        <ImageView android:id="@id/icon" android:layout_width="-1" android:layout_height="-2" />
+    </FrameLayout>
+</LinearLayout>

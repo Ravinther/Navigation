@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout sygic:layout_width="-1" sygic:layout_height="0x7f0800c6">
+    <LinearLayout sygic:orientation="0" sygic:paddingLeft="0x7f0800f2" sygic:paddingRight="0x7f0800f2" sygic:layout_width="-1" sygic:layout_height="-1">
+        <ImageView sygic:layout_gravity="10" sygic:id="@id/icon" sygic:visibility="2" sygic:layout_width="0x7f080149" sygic:layout_height="0x7f080149" sygic:layout_marginRight="0x7f080148" />
+        <LinearLayout sygic:gravity="10" sygic:orientation="1" sygic:layout_width="0dp" sygic:layout_height="-1" sygic:layout_weight="1.0">
+            <com.sygic.aura.views.font_specials.STextView sygic:id="@id/title" sygic:layout_width="-2" sygic:layout_height="-2" sygic:maxLines="2" style="0x7f0900db" />
+            <com.sygic.aura.views.font_specials.STextView sygic:id="@id/description" sygic:visibility="2" sygic:layout_width="-2" sygic:layout_height="-2" style="0x7f0900d7" />
+        </LinearLayout>
+        <ViewSwitcher sygic:id="0x7f0e022d" sygic:layout_width="-2" sygic:layout_height="-1" sygic:layout_marginLeft="10dp">
+            <LinearLayout sygic:gravity="10" sygic:orientation="1" sygic:layout_width="-2" sygic:layout_height="-1">
+                <com.sygic.aura.views.font_specials.STextView sygic:textSize="18sp" sygic:textColor="0x7f0d0164" sygic:layout_gravity="1" sygic:id="0x7f0e022e" sygic:layout_width="-2" sygic:layout_height="-2" sygic:font="0x7f070395" />
+                <com.sygic.aura.views.font_specials.STextView sygic:textSize="12sp" sygic:textColor="0x7f0d0165" sygic:layout_gravity="1" sygic:id="0x7f0e022f" sygic:visibility="2" sygic:layout_width="-2" sygic:layout_height="-2" sygic:font="0x7f070395" />
+            </LinearLayout>
+            <ImageView sygic:layout_gravity="15" sygic:id="0x7f0e01cf" sygic:layout_width="-2" sygic:layout_height="-1" />
+        </ViewSwitcher>
+    </LinearLayout>
+    <com.sygic.aura.views.font_specials.SDiscountTextView sygic:textSize="9sp" sygic:id="0x7f0e0230" sygic:visibility="2" sygic:layout_width="44dp" sygic:layout_height="44dp" />
+</FrameLayout>

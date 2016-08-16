@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen>
+    <com.sygic.aura.settings.preferences.SPreferenceCategory sygic:layout="0x7f0300ef" sygic:title="0x7f070223">
+        <com.sygic.aura.settings.preferences.StyleableSwitchPreference sygic:title="0x7f0702b6" sygic:key="0x7f070634" />
+        <com.sygic.aura.settings.preferences.road_numbers.RoadNumbersSwitchPreference sygic:title="0x7f0702b7" sygic:key="0x7f070632" />
+        <com.sygic.aura.settings.preferences.FragmentPreference sygic:title="0x7f070284" sygic:key="0x7f070608" sygic:fragment_class="com.sygic.aura.settings.fragments.VoiceOverviewFragment" />
+    </com.sygic.aura.settings.preferences.SPreferenceCategory>
+    <com.sygic.aura.settings.preferences.SPreferenceCategory sygic:layout="0x7f0300ef" sygic:title="0x7f07021d">
+        <com.sygic.aura.settings.preferences.SettingsFragmentPreference sygic:title="0x7f0702a4" sygic:key="0x7f070617" sygic:preferences="0x7f0500f8" sygic:registerOnChange="true" />
+        <com.sygic.aura.settings.preferences.SettingsFragmentPreference sygic:title="0x7f0702aa" sygic:key="0x7f070618" sygic:preferences="0x7f0500f9" sygic:registerOnChange="true" />
+        <com.sygic.aura.settings.preferences.SettingsFragmentPreference sygic:title="0x7f0702ae" sygic:key="0x7f070619" sygic:preferences="0x7f0500fa" sygic:registerOnChange="true" />
+        <com.sygic.aura.settings.preferences.SettingsFragmentPreference sygic:title="0x7f07029d" sygic:key="0x7f070616" sygic:preferences="0x7f0500f7" sygic:registerOnChange="true" />
+        <com.sygic.aura.settings.preferences.SettingsFragmentPreference sygic:title="0x7f07029a" sygic:key="0x7f070615" sygic:preferences="0x7f0500f6" sygic:registerOnChange="true" />
+        <com.sygic.aura.settings.preferences.FragmentPreference sygic:title="0x7f07029c" sygic:key="0x7f07061d" sygic:fragment_class="com.sygic.aura.settings.fragments.SoundSettingsFragment" sygic:fragment_data="eScoutRouteNotifSound" />
+        <com.sygic.aura.settings.preferences.BluetoothPreference sygic:title="0x7f070292" sygic:key="0x7f070611" sygic:defaultValue="2" sygic:positiveButtonText="0x104000a" sygic:negativeButtonText="0x1040000" sygic:defaultHfpDelay="30" />
+    </com.sygic.aura.settings.preferences.SPreferenceCategory>
+</PreferenceScreen>

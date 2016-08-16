@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sygic.aura.map.view.CompassView android:id="0x7f0e01c3" android:background="0x7f0200ac" android:focusable="true" android:layout_width="-2" android:layout_height="-2" android:contentDescription="@string/app_name" />

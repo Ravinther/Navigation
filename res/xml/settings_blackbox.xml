@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen>
+    <com.sygic.aura.settings.preferences.StyleableSwitchPreference android:title="0x7f07009d" android:key="0x7f07043d" android:summary="0x7f07009e" android:defaultValue="true" />
+    <com.sygic.aura.settings.preferences.StyleableSwitchPreference android:title="0x7f07009f" android:key="0x7f07043c" android:summary="0x7f0700a0" android:defaultValue="false" />
+    <com.sygic.aura.settings.preferences.StyleableSwitchPreference android:title="0x7f0700a3" android:key="0x7f070440" android:defaultValue="false" />
+    <com.sygic.aura.settings.preferences.VideoQualityPreference android:title="0x7f0700a1" android:key="0x7f07043f" />
+</PreferenceScreen>

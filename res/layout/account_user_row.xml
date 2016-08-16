@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="0x7f0e00ab" android:background="0x7f0d001a" android:paddingTop="15dp" android:paddingBottom="15dp" android:layout_width="-1" android:layout_height="-2">
+    <com.sygic.aura.settings.view.RoundedImageView android:layout_gravity="11" android:id="0x7f0e00ac" android:background="0x7f02026c" android:layout_width="50dp" android:layout_height="50dp" android:layout_marginLeft="16dp" android:layout_marginRight="8dp" android:scaleType="7" />
+    <TextView android:ellipsize="3" android:layout_gravity="10" android:id="0x7f0e00ad" android:layout_width="-1" android:layout_height="-2" android:layout_marginRight="0x7f0800de" android:text="0x7f07007e" android:singleLine="true" android:drawablePadding="0x7f0800de" style="0x7f0901fd" />
+</LinearLayout>

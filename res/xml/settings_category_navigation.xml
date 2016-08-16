@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen>
+    <com.sygic.aura.settings.preferences.SummaryListPreference sygic:entries="0x7f0c0021" sygic:title="0x7f070229" sygic:key="0x7f070450" sygic:defaultValue="3" sygic:entryValues="0x7f0c001b" />
+    <com.sygic.aura.settings.preferences.SettingsFragmentPreference sygic:title="0x7f070269" sygic:key="0x7f07046e" sygic:premium="true" sygic:preferences="0x7f0500f5" />
+    <com.sygic.aura.settings.preferences.SettingsFragmentPreference sygic:title="0x7f07022e" sygic:preferences="0x7f0500f4" />
+    <com.sygic.aura.settings.preferences.StyleableSwitchPreference sygic:title="0x7f07023e" sygic:key="0x7f07045a" sygic:premium="true" />
+    <com.sygic.aura.settings.preferences.StyleableSwitchPreference sygic:title="0x7f070266" sygic:key="0x7f07046c" sygic:premium="true" />
+    <com.sygic.aura.settings.preferences.StyleableSwitchPreference sygic:title="0x7f07023d" sygic:key="0x7f070459" sygic:premium="true" />
+    <com.sygic.aura.settings.preferences.StyleableSwitchPreference sygic:title="0x7f070264" sygic:key="0x7f07046a" sygic:premium="true" />
+    <com.sygic.aura.settings.preferences.SummaryListPreference sygic:entries="0x7f0c0018" sygic:title="0x7f070247" sygic:key="0x7f07045c" sygic:defaultValue="1" sygic:entryValues="0x7f0c001b" />
+    <com.sygic.aura.settings.preferences.SettingsFragmentPreference sygic:title="0x7f070248" sygic:preferences="0x7f0500fd" />
+    <com.sygic.aura.settings.preferences.StyleableSwitchPreference sygic:title="0x7f070242" sygic:key="0x7f07045b" />
+    <com.sygic.aura.settings.preferences.StyleableSwitchPreference sygic:title="0x7f07022d" sygic:key="0x7f070451" />
+    <com.sygic.aura.settings.preferences.SettingsFragmentPreference sygic:title="0x7f070225" sygic:preferences="0x7f0500e6" />
+    <com.sygic.aura.settings.preferences.StyleableSwitchPreference sygic:title="0x7f07026e" sygic:key="0x7f0705f6" sygic:defaultValue="true" />
+</PreferenceScreen>

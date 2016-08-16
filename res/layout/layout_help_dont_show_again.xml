@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout sygic:background="0x7f0d006d" sygic:paddingLeft="25dp" sygic:paddingRight="25dp" sygic:layout_width="-1" sygic:layout_height="-2">
+    <com.sygic.aura.views.font_specials.SCheckBox sygic:textSize="20sp" sygic:textColor="0x7f0d018a" sygic:id="0x7f0e01d4" sygic:layout_width="-1" sygic:layout_height="-2" sygic:checked="true" sygic:textId="0x7f07019d" sygic:themeStyle="2" />
+</FrameLayout>

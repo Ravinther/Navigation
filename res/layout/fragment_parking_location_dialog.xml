@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout sygic:orientation="1" sygic:layout_width="-1" sygic:layout_height="-2">
+    <com.sygic.aura.views.font_specials.STextView sygic:textSize="100sp" sygic:textColor="@color/azure_radiance" sygic:gravity="11" sygic:layout_width="-1" sygic:layout_height="-2" sygic:font="0x7f070391" sygic:textId="0x7f070148" />
+    <com.sygic.aura.views.font_specials.STextView sygic:textSize="19sp" sygic:textStyle="1" sygic:textColor="0x7f0d00c5" sygic:gravity="11" sygic:layout_width="-1" sygic:layout_height="-2" sygic:textId="0x7f070149" />
+    <com.sygic.aura.views.font_specials.STextView sygic:textSize="16sp" sygic:textColor="0x7f0d00e4" sygic:gravity="11" sygic:id="0x7f0e0128" sygic:layout_width="-1" sygic:layout_height="-2" />
+    <View sygic:background="0x7f0d012b" sygic:layout_width="-1" sygic:layout_height="1dp" sygic:layout_marginTop="0x7f0800f3" />
+    <EditText sygic:textColorHint="0x7f0d012b" sygic:id="0x7f0e0129" sygic:background="@ttsconst/TTSEVT_AUDIOSTART" sygic:padding="0x7f0800f3" sygic:layout_width="-1" sygic:layout_height="-2" />
+    <View sygic:background="0x7f0d012b" sygic:layout_width="-1" sygic:layout_height="1dp" sygic:layout_marginBottom="0x7f0800f3" />
+</LinearLayout>

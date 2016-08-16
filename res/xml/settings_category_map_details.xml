@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen>
+    <com.sygic.aura.settings.preferences.SummaryListPreference sygic:entries="0x7f0c0020" sygic:title="0x7f070260" sygic:key="0x7f070469" sygic:defaultValue="1" sygic:entryValues="0x7f0c001b" />
+    <com.sygic.aura.settings.preferences.StyleableSwitchPreference sygic:title="0x7f070265" sygic:key="0x7f07046b" />
+    <com.sygic.aura.settings.preferences.StyleableSwitchPreference sygic:title="0x7f070268" sygic:key="0x7f07046d" />
+</PreferenceScreen>

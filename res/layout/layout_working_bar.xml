@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout sygic:gravity="11" sygic:orientation="0" sygic:id="0x7f0e0217" sygic:background="0x7f0d0104" sygic:padding="6dp" sygic:visibility="2" sygic:clickable="true" sygic:layout_width="-1" sygic:layout_height="-2">
+    <ProgressBar sygic:layout_width="-2" sygic:layout_height="-2" sygic:layout_marginRight="6dp" style="?unknown_attr_ref: 1010079" />
+    <com.sygic.aura.views.font_specials.STextView sygic:textColor="0x7f0d018a" sygic:id="0x7f0e023f" sygic:layout_width="-2" sygic:layout_height="-2" sygic:textId="0x7f0701f5" />
+</LinearLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="-2" android:minHeight="?unknown_attr_ref: 1010387">
+    <com.sygic.aura.views.font_specials.SImageView android:layout_gravity="10" android:id="0x7f0e00dc" android:layout_width="60dp" android:layout_height="-2" />
+    <com.sygic.aura.views.font_specials.STextView android:textAppearance="?unknown_attr_ref: 101039f" android:layout_gravity="10" android:id="0x7f0e00dd" android:layout_width="0dp" android:layout_height="-2" android:layout_weight="1.0" />
+    <com.sygic.aura.views.font_specials.STextView android:textAppearance="?unknown_attr_ref: 101039f" android:layout_gravity="10" android:id="0x7f0e00de" android:paddingRight="24dp" android:layout_width="-2" android:layout_height="-2" />
+</LinearLayout>

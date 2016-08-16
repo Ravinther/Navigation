@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="-1" android:layout_height="-1">
+    <RelativeLayout android:gravity="1" android:orientation="1" android:padding="10dp" android:layout_width="-1" android:layout_height="-1">
+        <com.sygic.aura.views.font_specials.STextView android:id="0x7f0e02a4" android:layout_width="-2" android:layout_height="-2" android:layout_alignParentLeft="true" />
+        <com.sygic.aura.views.font_specials.STextView android:id="0x7f0e02a5" android:layout_width="-2" android:layout_height="-2" android:layout_alignParentRight="true" />
+        <LinearLayout android:gravity="10" android:orientation="0" android:id="0x7f0e02a6" android:layout_width="-1" android:layout_height="-2" android:layout_below="0x7f0e02a4">
+            <ImageView android:id="0x7f0e02a7" android:padding="15dp" android:layout_width="-2" android:layout_height="-2" />
+            <SeekBar android:id="0x7f0e02a8" android:padding="15dp" android:layout_width="-1" android:layout_height="-2" />
+        </LinearLayout>
+        <com.sygic.aura.views.font_specials.STextView android:layout_gravity="3" android:id="0x7f0e02a9" android:layout_width="-2" android:layout_height="-2" android:layout_below="0x7f0e02a6" />
+        <com.sygic.aura.views.font_specials.STextView android:id="0x7f0e02aa" android:layout_width="-2" android:layout_height="-2" android:layout_alignBaseline="0x7f0e02a9" android:layout_alignParentRight="true" />
+        <LinearLayout android:gravity="10" android:orientation="0" android:id="0x7f0e02ab" android:layout_width="-1" android:layout_height="-2" android:layout_below="0x7f0e02a9">
+            <ImageView android:id="0x7f0e02ac" android:padding="15dp" android:layout_width="-2" android:layout_height="-2" />
+            <SeekBar android:id="0x7f0e02ad" android:padding="15dp" android:layout_width="-1" android:layout_height="-2" />
+        </LinearLayout>
+        <com.sygic.aura.views.font_specials.STextView android:layout_gravity="3" android:id="0x7f0e02ae" android:layout_width="-2" android:layout_height="-2" android:layout_below="0x7f0e02ab" />
+        <com.sygic.aura.views.font_specials.STextView android:id="0x7f0e02af" android:layout_width="-2" android:layout_height="-2" android:layout_alignBaseline="0x7f0e02ae" android:layout_alignParentRight="true" />
+        <LinearLayout android:gravity="10" android:orientation="0" android:id="0x7f0e02b0" android:layout_width="-1" android:layout_height="-2" android:layout_below="0x7f0e02ae">
+            <ImageView android:id="0x7f0e02b1" android:padding="15dp" android:layout_width="-2" android:layout_height="-2" />
+            <SeekBar android:id="0x7f0e02b2" android:padding="15dp" android:layout_width="-1" android:layout_height="-2" />
+        </LinearLayout>
+        <com.sygic.aura.views.font_specials.STextView android:gravity="11" android:id="0x7f0e02b3" android:visibility="2" android:layout_width="-1" android:layout_height="-2" android:layout_below="0x7f0e02b0" />
+    </RelativeLayout>
+</ScrollView>

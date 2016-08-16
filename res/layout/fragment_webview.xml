@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:background="0x7f0d00a3" android:layout_width="-1" android:layout_height="-1" android:cacheColorHint="0x7f0d00a3">
+    <include layout="0x7f0300b0" />
+    <WebView android:id="0x7f0e019f" android:layout_width="-1" android:layout_height="-1" />
+    <ProgressBar android:id="0x7f0e00ae" android:layout_width="-1" android:layout_height="3dp" android:progressDrawable="0x7f020218" style="@style/Widget_AppCompat_ProgressBar_Horizontal" />
+</LinearLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item>
+        <shape>
+            <corners android:radius="0x7f08015e" />
+            <solid android:color="0x7f0d0052" />
+        </shape>
+    </item>
+</selector>

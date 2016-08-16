@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sygic.aura.incidents.views.IncidentView sygic:gravity="51" sygic:layout_gravity="800053" sygic:orientation="1" sygic:id="0x7f0e01a7" sygic:layout_width="-1" sygic:layout_height="-1" sygic:layout_marginLeft="0x7f0800b9" sygic:layout_marginRight="0x7f0800b9" sygic:layout_marginBottom="0x7f080116">
+    <com.sygic.aura.views.font_specials.STextView sygic:textSize="15sp" sygic:textColor="0x7f0d018a" sygic:gravity="11" sygic:background="0x7f020226" sygic:padding="12dp" sygic:layout_width="-1" sygic:layout_height="-2" sygic:textId="0x7f070307" />
+    <FrameLayout sygic:background="0x7f020225" sygic:padding="2dp" sygic:layout_width="-1" sygic:layout_height="-2" sygic:layout_marginBottom="0x7f0800b9">
+        <GridView sygic:id="0x7f0e01a8" sygic:background="0x7f0d00d5" sygic:layout_width="-1" sygic:layout_height="-2" sygic:horizontalSpacing="1dp" sygic:verticalSpacing="1dp" sygic:numColumns="3" />
+    </FrameLayout>
+</com.sygic.aura.incidents.views.IncidentView>

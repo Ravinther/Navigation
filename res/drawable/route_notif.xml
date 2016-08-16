@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item>
+        <nine-patch android:src="0x7f0200b8" />
+    </item>
+    <item>
+        <selector>
+            <item android:state_enabled="true" android:state_pressed="true">
+                <shape android:shape="0">
+                    <corners android:radius="0x7f080070" />
+                    <solid android:color="0x7f0d012a" />
+                </shape>
+            </item>
+            <item android:state_enabled="false" android:state_pressed="true">
+                <shape android:shape="0">
+                    <corners android:radius="0x7f080070" />
+                    <solid android:color="0x7f0d007a" />
+                </shape>
+            </item>
+            <item android:state_enabled="false">
+                <shape android:shape="0">
+                    <corners android:radius="0x7f080070" />
+                    <solid android:color="0x7f0d007a" />
+                </shape>
+            </item>
+            <item>
+                <shape android:shape="0">
+                    <corners android:radius="0x7f080070" />
+                    <solid android:color="0x7f0d018a" />
+                </shape>
+            </item>
+        </selector>
+    </item>
+</layer-list>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.internal.NavigationMenuView android:paddingTop="@dimen/navigation_padding_top_default" android:paddingBottom="@dimen/navigation_padding_bottom" android:clipToPadding="false" android:layout_width="-1" android:layout_height="-1" android:listSelector="?unknown_attr_ref: 7f01014b" android:divider="@ttsconst/TTSEVT_AUDIOSTART" />

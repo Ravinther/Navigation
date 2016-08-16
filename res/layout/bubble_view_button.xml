@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <ImageView app:id="0x7f0e00c4" app:background="0x7f020059" app:padding="8dp" app:layout_width="-2" app:layout_height="-1" />
+    <com.sygic.aura.views.font_specials.STextView app:textSize="14sp" app:textColor="0x7f0d014a" app:ellipsize="3" app:gravity="10" app:id="0x7f0e00c5" app:paddingLeft="8dp" app:paddingTop="4dp" app:paddingRight="8dp" app:paddingBottom="4dp" app:layout_width="-2" app:layout_height="-1" app:singleLine="true" app:font="0x7f070395" />
+</merge>

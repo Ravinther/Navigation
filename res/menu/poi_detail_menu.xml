@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu>
+    <item compat:icon="0x7f050041" compat:id="0x7f0e02e9" compat:title="0x7f070168" compat:showAsAction="2" />
+    <item compat:icon="0x7f0500b3" compat:id="0x7f0e02ea" compat:title="0x7f070175" compat:showAsAction="2" />
+    <item compat:icon="0x7f050054" compat:id="0x7f0e02eb" compat:title="0x7f0700e2" compat:showAsAction="0" />
+    <item compat:icon="0x7f050054" compat:id="0x7f0e02ec" compat:title="0x7f0700e5" compat:showAsAction="0" />
+</menu>

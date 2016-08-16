@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sygic.aura.map.view.MapOverlayAnimator android:id="0x7f0e0127" android:background="0x106000d" android:layout_width="-1" android:layout_height="-1">
+    <include layout="0x7f03008c" />
+    <include layout="0x7f03008d" />
+    <include layout="0x7f03008e" />
+    <include layout="0x7f030097" />
+    <include layout="0x7f030096" />
+    <include layout="0x7f030090" />
+    <include layout="0x7f030092" />
+    <include layout="0x7f03008f" />
+    <include layout="0x7f030091" />
+    <include layout="0x7f030095" />
+    <include layout="0x7f030093" />
+    <include layout="0x7f030098" />
+    <include layout="0x7f03008b" />
+</com.sygic.aura.map.view.MapOverlayAnimator>

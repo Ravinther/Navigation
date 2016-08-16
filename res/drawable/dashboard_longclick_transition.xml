@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transition>
+    <item>
+        <shape android:shape="0">
+            <solid android:color="0x7f0d0021" />
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="0">
+            <solid android:color="0x7f0d004a" />
+        </shape>
+    </item>
+</transition>

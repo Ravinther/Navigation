@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout sygic:background="0x7f0d0061" sygic:layout_width="-1" sygic:layout_height="-2">
+    <com.sygic.aura.views.font_specials.SImageView sygic:id="0x7f0e00b8" sygic:background="0x7f0d0059" sygic:paddingLeft="16dp" sygic:paddingRight="16dp" sygic:layout_width="56dp" sygic:layout_height="-2" sygic:scaleType="3" sygic:layout_alignBottom="0x7f0e00bc" sygic:layout_alignParentTop="true" />
+    <com.sygic.aura.views.font_specials.STextView sygic:textSize="16sp" sygic:id="@id/title" sygic:paddingLeft="12dp" sygic:paddingTop="12dp" sygic:paddingRight="12dp" sygic:layout_width="-2" sygic:layout_height="-2" sygic:layout_toRightOf="0x7f0e00b8" sygic:layout_alignParentTop="true" sygic:layout_alignParentRight="true" sygic:font="0x7f070395" />
+    <com.sygic.aura.views.font_specials.STextView sygic:id="0x7f0e00bc" sygic:paddingLeft="12dp" sygic:paddingRight="12dp" sygic:paddingBottom="12dp" sygic:layout_width="-2" sygic:layout_height="-2" sygic:layout_toRightOf="0x7f0e00b8" sygic:layout_below="@id/title" sygic:layout_alignParentRight="true" />
+</RelativeLayout>

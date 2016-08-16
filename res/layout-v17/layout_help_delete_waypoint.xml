@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sygic.aura.help.view.MarkingLayout sygic:id="0x7f0e01d0" sygic:background="0x7f020278" sygic:clickable="true" sygic:layout_width="-1" sygic:layout_height="-1">
+    <ImageView sygic:id="0x7f0e01d1" sygic:layout_width="80dp" sygic:layout_height="80dp" sygic:layout_marginLeft="80dp" sygic:layout_marginTop="10dp" sygic:src="0x7f02007e" sygic:layout_alignParentTop="true" sygic:layout_marginStart="80dp" />
+    <com.sygic.aura.views.font_specials.STextView sygic:id="0x7f0e01d2" sygic:layout_width="-2" sygic:layout_height="-2" sygic:maxWidth="180dp" sygic:layout_toRightOf="0x7f0e01d1" sygic:layout_below="0x7f0e01d1" sygic:layout_toEndOf="0x7f0e01d1" sygic:textId="0x7f07019c" style="0x7f0901ea" />
+    <include sygic:layout_width="-1" sygic:layout_height="-2" sygic:layout_marginBottom="15dp" sygic:layout_alignParentBottom="true" layout="0x7f030082" />
+</com.sygic.aura.help.view.MarkingLayout>

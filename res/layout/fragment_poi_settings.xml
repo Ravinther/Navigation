@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout sygic:orientation="1" sygic:background="0x7f0d0024" sygic:clickable="true" sygic:layout_width="-1" sygic:layout_height="-1" sygic:cacheColorHint="0x7f0d0024"
+    <LinearLayout sygic:gravity="10" sygic:id="0x7f0e0152" sygic:background="0x7f02022d" sygic:padding="16dp" sygic:layout_width="-1" sygic:layout_height="-2">
+        <com.sygic.aura.views.font_specials.STextView sygic:textAppearance="?unknown_attr_ref: 1010041" sygic:textColor="0x7f0d0123" sygic:ellipsize="3" sygic:id="@id/title" sygic:layout_width="0dp" sygic:layout_height="-2" sygic:layout_marginRight="16dp" sygic:lines="1" sygic:layout_weight="1.0" sygic:font="0x7f070392" />
+        <CheckBox sygic:textAppearance="?unknown_attr_ref: 1010041" sygic:textColor="0x7f0d0123" sygic:id="0x7f0e0153" sygic:layout_width="-2" sygic:layout_height="-2" sygic:checked="false" />
+    </LinearLayout>
+    <com.sygic.aura.views.font_specials.STextView sygic:layout_gravity="50" sygic:paddingBottom="5dp" sygic:clickable="true" sygic:layout_width="-1" sygic:layout_height="-2" sygic:font="0x7f070391" sygic:textId="0x7f07021b" sygic:textStyle="2" style="0x7f09021b" />
+    <include sygic:gravity="50" sygic:layout_width="-2" sygic:layout_height="-2" layout="0x7f030033" />
+    <ListView sygic:id="0x7f0e011d" sygic:layout_width="-2" sygic:layout_height="-1" />
+</LinearLayout>

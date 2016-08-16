@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.SwitchCompat android:theme="0x7f09011a" android:id="0x1020001" android:background="@ttsconst/TTSEVT_AUDIOSTART" android:focusable="false" android:clickable="false" android:layout_width="-2" android:layout_height="-2" />

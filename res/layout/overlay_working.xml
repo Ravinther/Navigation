@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout sygic:id="0x7f0e025d" sygic:background="#9a000000" sygic:focusable="true" sygic:focusableInTouchMode="true" sygic:visibility="1" sygic:clickable="true" sygic:longClickable="true" sygic:layout_width="-1" sygic:layout_height="-1">
+    <com.sygic.aura.views.font_specials.STextView sygic:textStyle="1" sygic:textColor="0x106000b" sygic:layout_gravity="11" sygic:layout_width="-2" sygic:layout_height="-2" sygic:textId="0x7f0701ba" />
+</FrameLayout>

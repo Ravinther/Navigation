@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout sygic:orientation="1" sygic:layout_width="-1" sygic:layout_height="-2">
+    <com.sygic.aura.search.view.HistorySection sygic:orientation="1" sygic:id="0x7f0e0218" sygic:background="0x7f0d018a" sygic:visibility="2" sygic:layout_width="-1" sygic:layout_height="-2" sygic:divider="0x7f0200b5" sygic:showDividers="2">
+        <include sygic:layout_width="-1" sygic:layout_height="0x7f080127" layout="0x7f0300a2" />
+        <include sygic:layout_width="-1" sygic:layout_height="0x7f080127" layout="0x7f0300a2" />
+        <com.sygic.aura.views.font_specials.STextView sygic:textColor="0x7f0d012d" sygic:gravity="10" sygic:id="0x7f0e0219" sygic:background="0x7f02022c" sygic:paddingLeft="72dp" sygic:visibility="2" sygic:layout_width="-1" sygic:layout_height="48dp" sygic:textId="0x7f0701e9" style="0x7f0900dc" />
+    </com.sygic.aura.search.view.HistorySection>
+    <include layout="0x7f03007b" />
+    <com.sygic.aura.search.view.PoiHolderView sygic:gravity="10" sygic:orientation="0" sygic:id="0x7f0e021a" sygic:background="0x7f0d0196" sygic:layout_width="-1" sygic:layout_height="0x7f0800c2">
+        <com.sygic.aura.views.font_specials.SImageView sygic:visibility="1" sygic:layout_weight="1.0" style="0x7f090109" />
+        <com.sygic.aura.views.font_specials.SImageView sygic:visibility="1" sygic:layout_weight="1.0" style="0x7f090109" />
+        <com.sygic.aura.views.font_specials.SImageView sygic:visibility="1" sygic:layout_weight="1.0" style="0x7f090109" />
+        <com.sygic.aura.views.font_specials.SImageView sygic:visibility="1" sygic:layout_weight="1.0" style="0x7f090109" />
+        <FrameLayout sygic:id="0x7f0e021b" sygic:background="0x7f02022c" sygic:layout_width="-1" sygic:layout_height="-1" sygic:layout_weight="1.0">
+            <com.sygic.aura.views.font_specials.SImageView sygic:id="0x7f0e021c" sygic:background="@ttsconst/TTSEVT_AUDIOSTART" style="0x7f090109" />
+        </FrameLayout>
+    </com.sygic.aura.search.view.PoiHolderView>
+    <include layout="0x7f03007b" />
+</LinearLayout>

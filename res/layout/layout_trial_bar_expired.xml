@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout sygic:orientation="1" sygic:id="0x7f0e0232" sygic:background="0x7f0d0053" sygic:visibility="2" sygic:clickable="true" sygic:layout_width="-1" sygic:layout_height="-2">
+    <com.sygic.aura.views.font_specials.SImageView sygic:layout_gravity="35" sygic:id="0x7f0e0233" sygic:background="0x7f020075" sygic:padding="10dp" sygic:layout_width="0x7f08015f" sygic:layout_height="0x7f08015f" sygic:layout_margin="8dp" sygic:textSrc="0x7f050022" />
+    <LinearLayout sygic:gravity="11" sygic:orientation="1" sygic:padding="0x7f080160" sygic:layout_width="-1" sygic:layout_height="-2">
+        <com.sygic.aura.views.font_specials.STextView sygic:textSize="0x7f080161" sygic:textColor="0x7f0d0167" sygic:gravity="11" sygic:id="0x7f0e0234" sygic:layout_width="-2" sygic:layout_height="-2" sygic:layout_marginLeft="0x7f08015f" sygic:layout_marginRight="0x7f08015f" sygic:textId="0x7f07031d" />
+        <com.sygic.aura.views.font_specials.SForegroundTextView sygic:id="0x7f0e0235" sygic:layout_width="-2" sygic:layout_height="-2" sygic:layout_marginTop="0x7f080163" sygic:textId="0x7f070102" style="0x7f0900d5" />
+    </LinearLayout>
+</FrameLayout>
